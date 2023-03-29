@@ -1,0 +1,970 @@
+---
+'2':
+  abbrs:
+    to: red
+  translations: {}
+abbreviation:
+  abbrs:
+    abbr: green
+  translations: {}
+absolute:
+  abbrs:
+    abs: green
+  translations: {}
+action:
+  abbrs:
+    act: red
+  translations: {}
+active:
+  abbrs:
+    act: red
+  translations: {}
+actual:
+  abbrs:
+    act: red
+  translations: {}
+addition:
+  abbrs:
+    sum: green
+  translations: {}
+address:
+  abbrs:
+    addr: green
+  translations: {}
+allocation:
+  abbrs:
+    alloc:
+      context: memory
+      degree: yellow
+  translations: {}
+alternative:
+  abbrs:
+    alt: green
+  translations: {}
+application:
+  abbrs:
+    app: green
+  translations: {}
+argument:
+  abbrs:
+    arg: green
+  translations: {}
+array:
+  abbrs:
+    arr: green
+  translations: {}
+asynchronous:
+  abbrs:
+    async: green
+  translations: {}
+attribute:
+  abbrs:
+    attr: green
+  translations: {}
+authentication:
+  abbrs: {}
+  translations: {}
+average:
+  abbrs:
+    avg: green
+  translations: {}
+background:
+  abbrs:
+    bg: green
+  translations: {}
+battery:
+  abbrs:
+    bat:
+      context: power
+      degree: yellow
+  translations: {}
+binary:
+  abbrs:
+    bin: green
+  translations: {}
+boolean:
+  abbrs:
+    bool: green
+  translations: {}
+break:
+  abbrs:
+    brk: red
+  translations: {}
+breakline:
+  abbrs:
+    bl:
+      context: encoding
+      degree: yellow
+  translations: {}
+buffer:
+  abbrs:
+    buf: green
+  translations: {}
+button:
+  abbrs:
+    btn: green
+  translations: {}
+calculator:
+  abbrs:
+    calc: green
+  translations: {}
+callback:
+  abbrs:
+    cb: green
+  translations: {}
+certificate:
+  abbrs:
+    cert: green
+  translations: {}
+channel:
+  abbrs:
+    ch:
+      context: connections
+      degree: yellow
+  translations: {}
+character:
+  abbrs:
+    char: green
+  translations: {}
+check:
+  abbrs:
+    chk: green
+  translations: {}
+checksum:
+  abbrs:
+    csum:
+      context: operations
+      degree: yellow
+  translations: {}
+circle:
+  abbrs:
+    circ:
+      context: shapes
+      degree: yellow
+  translations: {}
+clear:
+  abbrs:
+    clr: green
+  translations: {}
+collection:
+  abbrs:
+    coll: green
+  translations: {}
+column:
+  abbrs:
+    col: green
+  translations: {}
+command:
+  abbrs:
+    cmd: green
+  translations: {}
+commercial:
+  abbrs:
+    com:
+      context: URLs
+      degree: yellow
+  translations: {}
+common:
+  abbrs:
+    com: red
+    comm: red
+  translations: {}
+communication:
+  abbrs:
+    com: green
+  translations: {}
+comparison:
+  abbrs:
+    cmp:
+      context: conditional operators
+      degree: yellow
+  translations: {}
+concatenation:
+  abbrs:
+    concat: green
+  translations: {}
+configuration:
+  abbrs:
+    conf: red
+    config: green
+  translations: {}
+connection:
+  abbrs:
+    conn:
+      context: connections
+      degree: green
+  translations: {}
+context:
+  abbrs:
+    ctx: green
+  translations: {}
+continue:
+  abbrs:
+    cont: green
+  translations: {}
+control:
+  abbrs:
+    ctrl: green
+  translations: {}
+conversation:
+  abbrs:
+    conv: green
+  translations: {}
+coordinate:
+  abbrs:
+    coord: green
+  translations: {}
+copy:
+  abbrs:
+    cpy: red
+  translations: {}
+cosine:
+  abbrs:
+    cos: green
+  translations: {}
+cotangent:
+  abbrs:
+    cot: green
+  translations: {}
+counter:
+  abbrs:
+    cnt: green
+  translations: {}
+current:
+  abbrs:
+    cur: red
+    curr: green
+  translations: {}
+database:
+  abbrs:
+    db: green
+  translations: {}
+debug:
+  abbrs:
+    dbg: green
+  translations: {}
+decimal:
+  abbrs:
+    dec: green
+  translations: {}
+decrease:
+  abbrs:
+    dec:
+      context: loops
+      degree: yellow
+  translations: {}
+default:
+  abbrs:
+    def: red
+  translations: {}
+definition:
+  abbrs:
+    def: green
+  translations: {}
+delete:
+  abbrs:
+    del: green
+  translations: {}
+delta time:
+  abbrs:
+    dt:
+      context: calculations
+      degree: yellow
+  translations: {}
+description:
+  abbrs:
+    desc: green
+  translations: {}
+destination:
+  abbrs:
+    dest: green
+  translations: {}
+developer:
+  abbrs:
+    dev: green
+  translations: {}
+development:
+  abbrs:
+    dev: green
+  translations: {}
+device:
+  abbrs:
+    dev:
+      context: devices
+      degree: yellow
+  translations: {}
+difference:
+  abbrs:
+    diff:
+      context: operations
+      degree: yellow
+  translations: {}
+direction:
+  abbrs:
+    dir: green
+  translations: {}
+directory:
+  abbrs:
+    dir: green
+  translations: {}
+disable:
+  abbrs:
+    dis: green
+  translations: {}
+display:
+  abbrs:
+    disp: green
+  translations: {}
+document:
+  abbrs:
+    doc: green
+  translations: {}
+driver:
+  abbrs:
+    drv: green
+  translations: {}
+dynamic:
+  abbrs:
+    dyn: green
+  translations: {}
+enable:
+  abbrs:
+    en: green
+  translations: {}
+environment:
+  abbrs:
+    env: green
+  translations: {}
+equal:
+  abbrs:
+    eq:
+      context: binary operations
+      degree: yellow
+  translations: {}
+error:
+  abbrs:
+    err: green
+  translations: {}
+event:
+  abbrs:
+    e: green
+  translations: {}
+execution:
+  abbrs:
+    exe: green
+  translations: {}
+expression:
+  abbrs:
+    expr: green
+  translations: {}
+extension:
+  abbrs:
+    ext: green
+  translations: {}
+factory:
+  abbrs:
+    fac: green
+  translations: {}
+figure:
+  abbrs:
+    fig: green
+  translations: {}
+file description:
+  abbrs:
+    fd: green
+  translations: {}
+for example:
+  abbrs:
+    e.g.: green
+  translations: {}
+format:
+  abbrs:
+    fmt: green
+  translations: {}
+function:
+  abbrs:
+    f: red
+    fn: red
+    func: green
+  translations: {}
+function pointer:
+  abbrs:
+    fp: green
+  translations: {}
+generation:
+  abbrs:
+    gen: green
+  translations: {}
+greater or equal:
+  abbrs:
+    ge:
+      context: binary operations
+      degree: yellow
+  translations: {}
+greater than:
+  abbrs:
+    gt:
+      context: binary operations
+      degree: yellow
+  translations: {}
+hardware:
+  abbrs:
+    hw:
+      context: computer science
+      degree: yellow
+  translations: {}
+header:
+  abbrs:
+    hdr: red
+  translations: {}
+height:
+  abbrs:
+    h:
+      context: shapes
+      degree: yellow
+  translations: {}
+hexadecimal:
+  abbrs:
+    hex: green
+  translations: {}
+horizontal:
+  abbrs:
+    hor:
+      context: shapes
+      degree: yellow
+  translations: {}
+identifier:
+  abbrs:
+    id: green
+  translations: {}
+image:
+  abbrs:
+    img: green
+  translations: {}
+implementation:
+  abbrs:
+    impl: green
+  translations: {}
+inclusion:
+  abbrs:
+    inc: green
+  translations: {}
+increase:
+  abbrs:
+    inc:
+      context: loops
+      degree: yellow
+  translations: {}
+index:
+  abbrs:
+    idx: green
+  translations: {}
+information:
+  abbrs:
+    info: green
+  translations: {}
+initialization:
+  abbrs:
+    init: green
+  translations: {}
+input:
+  abbrs:
+    in: green
+  translations: {}
+insertion:
+  abbrs:
+    ins: green
+  translations: {}
+integer:
+  abbrs:
+    int: green
+  translations: {}
+interface:
+  abbrs:
+    iface: green
+    intf: red
+  translations: {}
+iterator:
+  abbrs:
+    iter:
+      context: loops
+      degree: yellow
+  translations: {}
+javascript:
+  abbrs:
+    js: green
+  translations: {}
+language:
+  abbrs:
+    lang: green
+  translations: {}
+latitude:
+  abbrs:
+    lat:
+      context: only with **coord**
+      degree: yellow
+  translations: {}
+length:
+  abbrs:
+    len: green
+  translations: {}
+less or equal:
+  abbrs:
+    le:
+      context: binary operators
+      degree: yellow
+  translations: {}
+less than:
+  abbrs:
+    lt:
+      context: binary operators
+      degree: yellow
+  translations: {}
+library:
+  abbrs:
+    lib: green
+  translations: {}
+linked list:
+  abbrs:
+    ll: green
+  translations: {}
+longitude:
+  abbrs:
+    lon:
+      context: only with **coord**
+      degree: yellow
+  translations: {}
+manager:
+  abbrs:
+    mng: green
+  translations: {}
+maximum:
+  abbrs:
+    max: green
+  translations: {}
+memory:
+  abbrs:
+    mem: green
+  translations: {}
+message:
+  abbrs:
+    msg: green
+  translations: {}
+metadata:
+  abbrs:
+    meta:
+      context: data science
+      degree: yellow
+  translations: {}
+microcontroller:
+  abbrs:
+    mcu: green
+  translations: {}
+middle:
+  abbrs:
+    mid: green
+  translations: {}
+minimum:
+  abbrs:
+    min: green
+  translations: {}
+miscellaneous:
+  abbrs:
+    misc: green
+  translations: {}
+modulo:
+  abbrs:
+    mod: green
+  translations: {}
+multiplier:
+  abbrs:
+    mplr: green
+  translations: {}
+mutable:
+  abbrs:
+    mut:
+      context: variables
+      degree: yellow
+  translations: {}
+navigation:
+  abbrs:
+    nav: green
+  translations: {}
+network:
+  abbrs:
+    net: green
+  translations: {}
+newline:
+  abbrs:
+    nl:
+      context: endcoding
+      degree: yellow
+  translations: {}
+'no':
+  abbrs:
+    'n':
+      context: only with **yes**
+      degree: yellow
+  translations: {}
+node:
+  abbrs:
+    $...:
+      context: DOM
+      degree: yellow
+  translations: {}
+not equal:
+  abbrs:
+    ne:
+      context: binary operators
+      degree: yellow
+  translations: {}
+number:
+  abbrs:
+    num: green
+  translations: {}
+number of:
+  abbrs:
+    num: green
+  translations: {}
+object:
+  abbrs:
+    obj: green
+  translations: {}
+object key:
+  abbrs:
+    key:
+      context: only with **val**
+      degree: yellow
+  translations: {}
+octal:
+  abbrs:
+    oct: green
+  translations: {}
+operating system:
+  abbrs:
+    os: green
+  translations: {}
+operation:
+  abbrs:
+    op:
+      context: binary operations
+      degree: yellow
+  translations: {}
+option:
+  abbrs:
+    opt: green
+  translations: {}
+order:
+  abbrs:
+    ord:
+      context: data science
+      degree: yellow
+  translations: {}
+organization:
+  abbrs:
+    org: green
+  translations: {}
+output:
+  abbrs:
+    out: green
+  translations: {}
+parameter:
+  abbrs:
+    param: green
+  translations: {}
+performance:
+  abbrs:
+    perf: green
+  translations: {}
+picture:
+  abbrs:
+    pic: green
+  translations: {}
+pixel:
+  abbrs:
+    px: green
+  translations: {}
+pointer:
+  abbrs:
+    p:
+      context: memory
+      degree: yellow
+    ptr: green
+  translations: {}
+position:
+  abbrs:
+    pos: green
+  translations: {}
+power:
+  abbrs:
+    pwr:
+      context: energy
+      degree: yellow
+  translations: {}
+prediction:
+  abbrs:
+    pred: green
+  translations: {}
+preference:
+  abbrs:
+    pref: green
+  translations: {}
+previous:
+  abbrs:
+    prev: green
+  translations: {}
+private:
+  abbrs:
+    priv: green
+  translations: {}
+process:
+  abbrs:
+    proc:
+      context: threads
+      degree: yellow
+  translations: {}
+production:
+  abbrs:
+    prod: green
+  translations: {}
+profiler:
+  abbrs:
+    prof: green
+  translations: {}
+public:
+  abbrs:
+    pub: green
+  translations: {}
+query:
+  abbrs:
+    q: green
+    qry: red
+  translations: {}
+radius:
+  abbrs:
+    r:
+      context: circles
+      degree: yellow
+  translations: {}
+random:
+  abbrs:
+    rand: green
+  translations: {}
+range:
+  abbrs:
+    rng: green
+  translations: {}
+receive:
+  abbrs:
+    recv: green
+  translations: {}
+record:
+  abbrs:
+    rec: green
+  translations: {}
+rectangle:
+  abbrs:
+    rect:
+      context: shapes
+      degree: yellow
+  translations: {}
+reference:
+  abbrs:
+    ref: green
+  translations: {}
+regular expression:
+  abbrs:
+    regex: green
+    rgx: red
+  translations: {}
+remote:
+  abbrs:
+    rem: green
+  translations: {}
+repository:
+  abbrs:
+    repo: green
+  translations: {}
+request:
+  abbrs:
+    req: green
+  translations: {}
+response:
+  abbrs:
+    res: green
+  translations: {}
+result:
+  abbrs:
+    res: green
+  translations: {}
+return:
+  abbrs:
+    ret: green
+  translations: {}
+revision:
+  abbrs:
+    rev: green
+  translations: {}
+selection:
+  abbrs:
+    sel: green
+  translations: {}
+semaphore:
+  abbrs:
+    sem:
+      context: conditional operators
+      degree: yellow
+  translations: {}
+sequence:
+  abbrs:
+    seq: green
+  translations: {}
+signed as prefix:
+  abbrs:
+    s:
+      context: modifiers
+      degree: yellow
+  translations: {}
+sine:
+  abbrs:
+    sin: green
+  translations: {}
+software:
+  abbrs:
+    sw:
+      context: computer science
+      degree: yellow
+  translations: {}
+source:
+  abbrs:
+    src: green
+  translations: {}
+square root:
+  abbrs:
+    sqrt: green
+  translations: {}
+standard:
+  abbrs:
+    std: green
+  translations: {}
+standard input output:
+  abbrs:
+    stdio: green
+  translations: {}
+statistic:
+  abbrs:
+    stat: green
+  translations: {}
+string:
+  abbrs:
+    str: green
+  translations: {}
+synchronization:
+  abbrs:
+    sync: green
+  translations: {}
+temperature:
+  abbrs:
+    tmp: green
+  translations: {}
+temporary:
+  abbrs:
+    temp: green
+  translations: {}
+text:
+  abbrs:
+    txt: red
+  translations: {}
+time:
+  abbrs:
+    t: yellow
+  translations: {}
+timer:
+  abbrs:
+    tmr: green
+  translations: {}
+timestamp:
+  abbrs:
+    ts: green
+  translations: {}
+to:
+  abbrs:
+    '2': red
+  translations: {}
+toggle:
+  abbrs:
+    tgl: red
+  translations: {}
+transaction:
+  abbrs:
+    tx: green
+  translations: {}
+type:
+  abbrs:
+    t:
+      context: modifiers
+      degree: yellow
+  translations: {}
+typescript:
+  abbrs:
+    ts: green
+  translations: {}
+user:
+  abbrs:
+    u:
+      context: URLs
+      degree: yellow
+    usr: red
+  translations: {}
+utility:
+  abbrs:
+    util: green
+  translations: {}
+value:
+  abbrs:
+    v:
+      context: only with **k**
+      degree: yellow
+    val: green
+  translations: {}
+variable:
+  abbrs:
+    var: green
+  translations: {}
+vector:
+  abbrs:
+    v:
+      context: physics
+      degree: yellow
+  translations: {}
+version:
+  abbrs:
+    v: green
+    ver: red
+  translations: {}
+vertical:
+  abbrs:
+    ver: green
+  translations: {}
+white space:
+  abbrs:
+    ws:
+      context: encoding
+      degree: yellow
+  translations: {}
+width:
+  abbrs:
+    w:
+      context: shapes
+      degree: yellow
+  translations: {}
+window:
+  abbrs:
+    win: green
+  translations: {}
+'yes':
+  abbrs:
+    'y':
+      context: only with **n**
+      degree: yellow
+  translations: {}
