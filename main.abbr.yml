@@ -781,6 +781,11 @@ remote:
   abbrs:
     rem: green
   translations: {}
+remove:
+  abbrs:
+    rm: green
+    rmv: green
+  translations: {}
 repository:
   abbrs:
     repo: green

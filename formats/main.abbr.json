@@ -1167,6 +1167,13 @@
       },
       "translations": {}
    },
+   "remove": {
+      "abbrs": {
+         "rm": "green",
+         "rmv": "green"
+      },
+      "translations": {}
+   },
    "repository": {
       "abbrs": {
          "repo": "green"
