@@ -1,1558 +1,1552 @@
-2:
-  abbrs:
-    to: red
-  translations: {
+- abbrs:
+    - abbr: to
+      degree: red
+  translations:
     it: a
-  }
+  word: "2"
 
-abbreviation:
-  abbrs:
-    abbr: green
-  translations: {
+- abbrs:
+    - abbr: abbr
+      degree: green
+  translations:
     it: abbreviazione
-  }
+  word: abbreviation
 
-absolute:
-  abbrs:
-    abs: green
-  translations: {
+- abbrs:
+    - abbr: abs
+      degree: green
+  translations:
     it: assoluto
-  }
+  word: absolute
 
-action:
-  abbrs:
-    act: red
-  translations: {
+- abbrs:
+    - abbr: act
+      degree: red
+  translations:
     it: azione
-  }
+  word: action
 
-active:
-  abbrs:
-    act: red
-  translations: {
+- abbrs:
+    - abbr: act
+      degree: red
+  translations:
     it: attivo
-  }
+  word: active
 
-actual:
-  abbrs:
-    act: red
-  translations: {
+- abbrs:
+    - abbr: act
+      degree: red
+  translations:
     it: attuale
-  }
+  word: actual
 
-addition:
-  abbrs:
-    sum: green
-  translations: {
+- abbrs:
+    - abbr: sum
+      degree: green
+  translations:
     it: addizione
-  }
+  word: addition
 
-address:
-  abbrs:
-    addr: green
-  translations: {
+- abbrs:
+    - abbr: addr
+      degree: green
+  translations:
     it: indirizzo
-  }
+  word: address
 
-allocation:
-  abbrs:
-    alloc:
+- abbrs:
+    - abbr: alloc
       context: memory
       degree: yellow
-  translations: {
+  translations:
     it: allocazione
-  }
+  word: allocation
 
-alternative:
-  abbrs:
-    alt: green
-  translations: {
+- abbrs:
+    - abbr: alt
+      degree: green
+  translations:
     it: alternativo
-  }
+  word: alternative
 
-application:
-  abbrs:
-    app: green
-  translations: {
+- abbrs:
+    - abbr: app
+      degree: green
+  translations:
     it: applicazione
-  }
+  word: application
 
-argument:
-  abbrs:
-    arg: green
-  translations: {
+- abbrs:
+    - abbr: arg
+      degree: green
+  translations:
     it: argomento
-  }
+  word: argument
 
-array:
-  abbrs:
-    arr: green
+- abbrs:
+    - abbr: arr
+      degree: green
   translations: {}
+  word: array
 
-asynchronous:
-  abbrs:
-    async: green
-  translations: {
+- abbrs:
+    - abbr: async
+      degree: green
+  translations:
     it: asincrono
-  }
+  word: asynchronous
 
-attribute:
-  abbrs:
-    attr: green
-  translations: {
+- abbrs:
+    - abbr: attr
+      degree: green
+  translations:
     it: attributo
-  }
+  word: attribute
 
-authentication:
-  abbrs: {}
-  translations: {
+- abbrs: []
+  translations:
     it: autenticazione
-  }
+  word: authentication
 
-average:
-  abbrs:
-    avg: green
-  translations: {
+- abbrs:
+    - abbr: avg
+      degree: green
+  translations:
     it: media
-  }
+  word: average
 
-background:
-  abbrs:
-    bg: green
-  translations: {
+- abbrs:
+    - abbr: bg
+      degree: green
+  translations:
     it: sfondo
-  }
+  word: background
 
-battery:
-  abbrs:
-    bat:
+- abbrs:
+    - abbr: bat
       context: power
       degree: yellow
-  translations: {
+  translations:
     it: batteria
-  }
+  word: battery
 
-binary:
-  abbrs:
-    bin: green
-  translations: {
+- abbrs:
+    - abbr: bin
+      degree: green
+  translations:
     it: codice binario
-  }
+  word: binary
 
-boolean:
-  abbrs:
-    bool: green
-  translations: {
+- abbrs:
+    - abbr: bool
+      degree: green
+  translations:
     it: boleano
-  }
+  word: boolean
 
-break:
-  abbrs:
-    brk: red
-  translations: {
+- abbrs:
+    - abbr: brk
+      degree: red
+  translations:
     it: interruzione
-  }
+  word: break
 
-breakline:
-  abbrs:
-    bl:
+- abbrs:
+    - abbr: bl
       context: encoding
       degree: yellow
-  translations: {
+  translations:
     it: interruzione di riga
-  }
+  word: breakline
 
-buffer:
-  abbrs:
-    buf: green
+- abbrs:
+    - abbr: buf
+      degree: green
   translations: {}
+  word: buffer
 
-button:
-  abbrs:
-    btn: green
-  translations: {
+- abbrs:
+    - abbr: btn
+      degree: green
+  translations:
     it: bottone
-  }
+  word: button
 
-calculator:
-  abbrs:
-    calc: green
-  translations: {
+- abbrs:
+    - abbr: calc
+      degree: green
+  translations:
     it: calcolatore
-  }
+  word: calculator
 
-callback:
-  abbrs:
-    cb: green
+- abbrs:
+    - abbr: cb
+      degree: green
   translations: {}
+  word: callback
 
-certificate:
-  abbrs:
-    cert: green
-  translations: {
+- abbrs:
+    - abbr: cert
+      degree: green
+  translations:
     it: certificato
-  }
+  word: certificate
 
-channel:
-  abbrs:
-    ch:
+- abbrs:
+    - abbr: ch
       context: connections
       degree: yellow
-  translations: {
+  translations:
     it: canale
-  }
+  word: channel
 
-character:
-  abbrs:
-    char: green
-  translations: {
+- abbrs:
+    - abbr: char
+      degree: green
+  translations:
     it: carattere
-  }
+  word: character
 
-check:
-  abbrs:
-    chk: green
-  translations: {
+- abbrs:
+    - abbr: chk
+      degree: green
+  translations:
     it: controllo
-  }
+  word: check
 
-checksum:
-  abbrs:
-    csum:
+- abbrs:
+    - abbr: csum
       context: operations
       degree: yellow
   translations: {}
+  word: checksum
 
-circle:
-  abbrs:
-    circ:
+- abbrs:
+    - abbr: circ
       context: shapes
       degree: yellow
-  translations: {
+  translations:
     it: cerchio
-  }
+  word: circle
 
-clear:
-  abbrs:
-    clr: green
-  translations: {
+- abbrs:
+    - abbr: clr
+      degree: green
+  translations:
     it: pulizia
-  }
+  word: clear
 
-collection:
-  abbrs:
-    coll: green
-  translations: {
+- abbrs:
+    - abbr: coll
+      degree: green
+  translations:
     it: collezione
-  }
+  word: collection
 
-column:
-  abbrs:
-    col: green
-  translations: {
+- abbrs:
+    - abbr: col
+      degree: green
+  translations:
     it: colonna
-  }
+  word: column
 
-command:
-  abbrs:
-    cmd: green
-  translations: {
+- abbrs:
+    - abbr: cmd
+      degree: green
+  translations:
     it: comando
-  }
+  word: command
 
-commercial:
-  abbrs:
-    com:
+- abbrs:
+    - abbr: com
       context: URLs
       degree: yellow
-  translations: {
+  translations:
     it: commerciale
-  }
+  word: commercial
 
-common:
-  abbrs:
-    com: red
-    comm: red
-  translations: {
+- abbrs:
+    - abbr: com
+      degree: red
+    - abbr: comm
+      degree: red
+  translations:
     it: comune
-  }
+  word: common
 
-communication:
-  abbrs:
-    com: green
-  translations: {
+- abbrs:
+    - abbr: com
+      degree: green
+  translations:
     it: comunicazione
-  }
+  word: communication
 
-comparison:
-  abbrs:
-    cmp:
+- abbrs:
+    - abbr: cmp
       context: conditional operators
       degree: yellow
-  translations: {
+  translations:
     it: comparazione
-  }
+  word: comparison
 
-concatenation:
-  abbrs:
-    concat: green
-  translations: {
+- abbrs:
+    - abbr: concat
+      degree: green
+  translations:
     it: concatenazione
-  }
+  word: concatenation
 
-configuration:
-  abbrs:
-    conf: red
-    config: green
-  translations: {
+- abbrs:
+    - abbr: conf
+      degree: red
+    - abbr: config
+      degree: green
+  translations:
     it: configurazione
-  }
+  word: configuration
 
-connection:
-  abbrs:
-    conn:
+- abbrs:
+    - abbr: conn
       context: connections
       degree: green
-  translations: {
+  translations:
     it: connessione
-  }
+  word: connection
 
-context:
-  abbrs:
-    ctx: green
-  translations: {
+- abbrs:
+    - abbr: ctx
+      degree: green
+  translations:
     it: contesto
-  }
+  word: context
 
-continue:
-  abbrs:
-    cont: green
-  translations: {
+- abbrs:
+    - abbr: cont
+      degree: green
+  translations:
     it: continuo
-  }
+  word: continue
 
-control:
-  abbrs:
-    ctrl: green
-  translations: {
+- abbrs:
+    - abbr: ctrl
+      degree: green
+  translations:
     it: controllo
-  }
+  word: control
 
-conversation:
-  abbrs:
-    conv: green
-  translations: {
+- abbrs:
+    - abbr: conv
+      degree: green
+  translations:
     it: conversazione
-  }
+  word: conversation
 
-coordinate:
-  abbrs:
-    coord: green
-  translations: {
+- abbrs:
+    - abbr: coord
+      degree: green
+  translations:
     it: coordinate
-  }
+  word: coordinate
 
-copy:
-  abbrs:
-    cpy: red
-  translations: {
+- abbrs:
+    - abbr: cpy
+      degree: red
+  translations:
     it: copia
-  }
+  word: copy
 
-cosine:
-  abbrs:
-    cos: green
-  translations: {
+- abbrs:
+    - abbr: cos
+      degree: green
+  translations:
     it: coseno
-  }
+  word: cosine
 
-cotangent:
-  abbrs:
-    cot: green
-  translations: {
+- abbrs:
+    - abbr: cot
+      degree: green
+  translations:
     it: cotangente
-  }
+  word: cotangent
 
-counter:
-  abbrs:
-    cnt: green
-  translations: {
+- abbrs:
+    - abbr: cnt
+      degree: green
+  translations:
     it: contatore
-  }
+  word: counter
 
-current:
-  abbrs:
-    cur: red
-    curr: green
-  translations: {
+- abbrs:
+    - abbr: cur
+      degree: red
+    - abbr: curr
+      degree: green
+  translations:
     it: corrente
-  }
+  word: current
 
-database:
-  abbrs:
-    db: green
+- abbrs:
+    - abbr: db
+      degree: green
   translations: {}
+  word: database
 
-debug:
-  abbrs:
-    dbg: green
+- abbrs:
+    - abbr: dbg
+      degree: green
   translations: {}
+  word: debug
 
-decimal:
-  abbrs:
-    dec: green
-  translations: {
+- abbrs:
+    - abbr: dec
+      degree: green
+  translations:
     it: decimale
-  }
+  word: decimal
 
-decrease:
-  abbrs:
-    dec:
+- abbrs:
+    - abbr: dec
       context: loops
       degree: yellow
-  translations: {
+  translations:
     it: decremento
-  }
+  word: decrease
 
-default:
-  abbrs:
-    def: red
-  translations: {
+- abbrs:
+    - abbr: def
+      degree: red
+  translations:
     it: predefinito
-  }
+  word: default
 
-definition:
-  abbrs:
-    def: green
-  translations: {
+- abbrs:
+    - abbr: def
+      degree: green
+  translations:
     it: definizione
-  }
+  word: definition
 
-deletion:
-  abbrs:
-    del: green
-  translations: {
+- abbrs:
+    - abbr: del
+      degree: green
+  translations:
     it: eliminazione
-  }
+  word: deletion
 
-delta time:
-  abbrs:
-    dt:
+- abbrs:
+    - abbr: dt
       context: calculations
       degree: yellow
-  translations: {
+  translations:
     it: tempo delta
-  }
+  word: delta time
 
-description:
-  abbrs:
-    desc: green
-  translations: {
+- abbrs:
+    - abbr: desc
+      degree: green
+  translations:
     it: descrizione
-  }
+  word: description
 
-destination:
-  abbrs:
-    dest: green
-  translations: {
+- abbrs:
+    - abbr: dest
+      degree: green
+  translations:
     it: destinazione
-  }
+  word: destination
 
-developer:
-  abbrs:
-    dev: green
-  translations: {
+- abbrs:
+    - abbr: dev
+      degree: green
+  translations:
     it: sviluppatore
-  }
+  word: developer
 
-development:
-  abbrs:
-    dev: green
-  translations: {
+- abbrs:
+    - abbr: dev
+      degree: green
+  translations:
     it: sviluppo
-  }
+  word: development
 
-device:
-  abbrs:
-    dev:
+- abbrs:
+    - abbr: dev
       context: devices
       degree: yellow
-  translations: {
+  translations:
     it: dispositivo
-  }
+  word: device
 
-difference:
-  abbrs:
-    diff:
+- abbrs:
+    - abbr: diff
       context: operations
       degree: yellow
-  translations: {
+  translations:
     it: differenza
-  }
+  word: difference
 
-direction:
-  abbrs:
-    dir: green
-  translations: {
+- abbrs:
+    - abbr: dir
+      degree: green
+  translations:
     it: direzione
-  }
+  word: direction
 
-directory:
-  abbrs:
-    dir: green
+- abbrs:
+    - abbr: dir
+      degree: green
   translations: {}
+  word: directory
 
-disable:
-  abbrs:
-    dis: green
-  translations: {
+- abbrs:
+    - abbr: dis
+      degree: green
+  translations:
     it: disabilitare
-  }
+  word: disable
 
-display:
-  abbrs:
-    disp: green
-  translations: {
+- abbrs:
+    - abbr: disp
+      degree: green
+  translations:
     it: schermo
-  }
+  word: display
 
-document:
-  abbrs:
-    doc: green
-  translations: {
+- abbrs:
+    - abbr: doc
+      degree: green
+  translations:
     it: documento
-  }
+  word: document
 
-driver:
-  abbrs:
-    drv: green
+- abbrs:
+    - abbr: drv
+      degree: green
   translations: {}
+  word: driver
 
-dynamic:
-  abbrs:
-    dyn: green
-  translations: {
+- abbrs:
+    - abbr: dyn
+      degree: green
+  translations:
     it: dinamico
-  }
+  word: dynamic
 
-enable:
-  abbrs:
-    en: green
-  translations: {
+- abbrs:
+    - abbr: en
+      degree: green
+  translations:
     it: abilitare
-  }
+  word: enable
 
-environment:
-  abbrs:
-    env: green
-  translations: {
+- abbrs:
+    - abbr: env
+      degree: green
+  translations:
     it: ambiente
-  }
+  word: environment
 
-equal:
-  abbrs:
-    eq:
+- abbrs:
+    - abbr: eq
       context: binary operations
       degree: yellow
-  translations: {
+  translations:
     it: uguale
-  }
+  word: equal
 
-error:
-  abbrs:
-    err: green
-  translations: {
+- abbrs:
+    - abbr: err
+      degree: green
+  translations:
     it: errore
-  }
+  word: error
 
-event:
-  abbrs:
-    e: green
-  translations: {
+- abbrs:
+    - abbr: e
+      degree: green
+  translations:
     it: evento
-  }
+  word: event
 
-execution:
-  abbrs:
-    exe: green
-  translations: {
+- abbrs:
+    - abbr: exe
+      degree: green
+  translations:
     it: esecuzione
-  }
+  word: execution
 
-expression:
-  abbrs:
-    expr: green
-  translations: {
+- abbrs:
+    - abbr: expr
+      degree: green
+  translations:
     it: espressione
-  }
+  word: expression
 
-extension:
-  abbrs:
-    ext: green
-  translations: {
+- abbrs:
+    - abbr: ext
+      degree: green
+  translations:
     it: estensione
-  }
+  word: extension
 
-factory:
-  abbrs:
-    fac: green
-  translations: {
+- abbrs:
+    - abbr: fac
+      degree: green
+  translations:
     it: fabbrica
-  }
+  word: factory
 
-figure:
-  abbrs:
-    fig: green
+- abbrs:
+    - abbr: fig
+      degree: green
   translations: {}
+  word: figure
 
-file description:
-  abbrs:
-    fd: green
+- abbrs:
+    - abbr: fd
+      degree: green
   translations: {}
+  word: file description
 
-for example:
-  abbrs:
-    e.g.: green
-  translations: {
+- abbrs:
+    - abbr: e.g.
+      degree: green
+  translations:
     it: per esempio
-  }
+  word: for example
 
-format:
-  abbrs:
-    fmt: green
-  translations: {
+- abbrs:
+    - abbr: fmt
+      degree: green
+  translations:
     it: formato
-  }
+  word: format
 
-function:
-  abbrs:
-    f: red
-    fn: red
-    func: green
-  translations: {
+- abbrs:
+    - abbr: f
+      degree: red
+    - abbr: fn
+      degree: red
+    - abbr: func
+      degree: green
+  translations:
     it: funzione
-  }
+  word: function
 
-function pointer:
-  abbrs:
-    fp: green
-  translations: {
+- abbrs:
+    - abbr: fp
+      degree: green
+  translations:
     it: puntatore di funzione
-  }
+  word: function pointer
 
-generation:
-  abbrs:
-    gen: green
-  translations: {
+- abbrs:
+    - abbr: gen
+      degree: green
+  translations:
     it: generazione
-  }
+  word: generation
 
-greater or equal:
-  abbrs:
-    ge:
+- abbrs:
+    - abbr: ge
       context: binary operations
       degree: yellow
-  translations: {
+  translations:
     it: maggiore uguale
-  }
+  word: greater or equal
 
-greater than:
-  abbrs:
-    gt:
+- abbrs:
+    - abbr: gt
       context: binary operations
       degree: yellow
-  translations: {
+  translations:
     it: maggiore di
-  }
+  word: greater than
 
-hardware:
-  abbrs:
-    hw:
+- abbrs:
+    - abbr: hw
       context: computer science
       degree: yellow
   translations: {}
+  word: hardware
 
-header:
-  abbrs:
-    hdr: red
+- abbrs:
+    - abbr: hdr
+      degree: red
   translations: {}
+  word: header
 
-height:
-  abbrs:
-    h:
+- abbrs:
+    - abbr: h
       context: shapes
       degree: yellow
-  translations: {
+  translations:
     it: altezza
-  }
+  word: height
 
-hexadecimal:
-  abbrs:
-    hex: green
-  translations: {
+- abbrs:
+    - abbr: hex
+      degree: green
+  translations:
     it: esadecimale
-  }
+  word: hexadecimal
 
-horizontal:
-  abbrs:
-    hor:
+- abbrs:
+    - abbr: hor
       context: shapes
       degree: yellow
-  translations: {
+  translations:
     it: orizzontale
-  }
+  word: horizontal
 
-identifier:
-  abbrs:
-    id: green
-  translations: {
+- abbrs:
+    - abbr: id
+      degree: green
+  translations:
     it: identificatore
-  }
+  word: identifier
 
-image:
-  abbrs:
-    img: green
-  translations: {
+- abbrs:
+    - abbr: img
+      degree: green
+  translations:
     it: immagine
-  }
+  word: image
 
-implementation:
-  abbrs:
-    impl: green
-  translations: {
+- abbrs:
+    - abbr: impl
+      degree: green
+  translations:
     it: implementazione
-  }
+  word: implementation
 
-inclusion:
-  abbrs:
-    inc: green
-  translations: {
+- abbrs:
+    - abbr: inc
+      degree: green
+  translations:
     it: inclusione
-  }
+  word: inclusion
 
-increase:
-  abbrs:
-    inc:
+- abbrs:
+    - abbr: inc
       context: loops
       degree: yellow
-  translations: {
+  translations:
     it: aumento
-  }
+  word: increase
 
-index:
-  abbrs:
-    idx: green
-  translations: {
+- abbrs:
+    - abbr: idx
+      degree: green
+  translations:
     it: indice
-  }
+  word: index
 
-information:
-  abbrs:
-    info: green
-  translations: {
+- abbrs:
+    - abbr: info
+      degree: green
+  translations:
     it: informazione
-  }
+  word: information
 
-initialization:
-  abbrs:
-    init: green
-  translations: {
+- abbrs:
+    - abbr: init
+      degree: green
+  translations:
     it: inizializzazione
-  }
+  word: initialization
 
-input:
-  abbrs:
-    in: green
+- abbrs:
+    - abbr: in
+      degree: green
   translations: {}
+  word: input
 
-insertion:
-  abbrs:
-    ins: green
-  translations: {
+- abbrs:
+    - abbr: ins
+      degree: green
+  translations:
     it: inserzione
-  }
+  word: insertion
 
-integer:
-  abbrs:
-    int: green
-  translations: {
+- abbrs:
+    - abbr: int
+      degree: green
+  translations:
     it: intero
-  }
+  word: integer
 
-interface:
-  abbrs:
-    iface: green
-    intf: red
-  translations: {
+- abbrs:
+    - abbr: iface
+      degree: green
+    - abbr: intf
+      degree: red
+  translations:
     it: interfaccia
-  }
+  word: interface
 
-iterator:
-  abbrs:
-    iter:
+- abbrs:
+    - abbr: iter
       context: loops
       degree: yellow
-  translations: {
+  translations:
     it: iteratore
-  }
+  word: iterator
 
-javascript:
-  abbrs:
-    js: green
+- abbrs:
+    - abbr: js
+      degree: green
   translations: {}
+  word: javascript
 
-language:
-  abbrs:
-    lang: green
-  translations: {
+- abbrs:
+    - abbr: lang
+      degree: green
+  translations:
     it: lingua
-  }
+  word: language
 
-latitude:
-  abbrs:
-    lat:
+- abbrs:
+    - abbr: lat
       context: only with **coord**
       degree: yellow
-  translations: {
+  translations:
     it: latitudine
-  }
+  word: latitude
 
-length:
-  abbrs:
-    len: green
-  translations: {
+- abbrs:
+    - abbr: len
+      degree: green
+  translations:
     it: lunghezza
-  }
+  word: length
 
-less or equal:
-  abbrs:
-    le:
+- abbrs:
+    - abbr: le
       context: binary operators
       degree: yellow
-  translations: {
+  translations:
     it: minore uguale
-  }
+  word: less or equal
 
-less than:
-  abbrs:
-    lt:
+- abbrs:
+    - abbr: lt
       context: binary operators
       degree: yellow
-  translations: {
+  translations:
     it: minore di
-  }
+  word: less than
 
-library:
-  abbrs:
-    lib: green
-  translations: {
+- abbrs:
+    - abbr: lib
+      degree: green
+  translations:
     it: librearia
-  }
+  word: library
 
-linked list:
-  abbrs:
-    ll: green
+- abbrs:
+    - abbr: ll
+      degree: green
   translations: {}
+  word: linked list
 
-longitude:
-  abbrs:
-    lon:
+- abbrs:
+    - abbr: lon
       context: only with **coord**
       degree: yellow
-  translations: {
+  translations:
     it: longitudine
-  }
+  word: longitude
 
-manager:
-  abbrs:
-    mng: green
+- abbrs:
+    - abbr: mng
+      degree: green
   translations: {}
+  word: manager
 
-maximum:
-  abbrs:
-    max: green
-  translations: {
+- abbrs:
+    - abbr: max
+      degree: green
+  translations:
     it: massimo
-  }
+  word: maximum
 
-memory:
-  abbrs:
-    mem: green
-  translations: {
+- abbrs:
+    - abbr: mem
+      degree: green
+  translations:
     it: memoria
-  }
+  word: memory
 
-message:
-  abbrs:
-    msg: green
-  translations: {
+- abbrs:
+    - abbr: msg
+      degree: green
+  translations:
     it: messaggio
-  }
+  word: message
 
-metadata:
-  abbrs:
-    meta:
+- abbrs:
+    - abbr: meta
       context: data science
       degree: yellow
   translations: {}
+  word: metadata
 
-microcontroller:
-  abbrs:
-    mcu: green
+- abbrs:
+    - abbr: mcu
+      degree: green
   translations: {}
+  word: microcontroller
 
-middle:
-  abbrs:
-    mid: green
-  translations: {
+- abbrs:
+    - abbr: mid
+      degree: green
+  translations:
     it: mezzo
-  }
+  word: middle
 
-minimum:
-  abbrs:
-    min: green
-  translations: {
+- abbrs:
+    - abbr: min
+      degree: green
+  translations:
     it: minimo
-  }
+  word: minimum
 
-miscellaneous:
-  abbrs:
-    misc: green
+- abbrs:
+    - abbr: misc
+      degree: green
   translations: {}
+  word: miscellaneous
 
-modulo:
-  abbrs:
-    mod: green
-  translations: {
+- abbrs:
+    - abbr: mod
+      degree: green
+  translations:
     it: modulo
-  }
+  word: modulo
 
-multiplier:
-  abbrs:
-    mplr: green
-  translations: {
+- abbrs:
+    - abbr: mplr
+      degree: green
+  translations:
     it: moltiplicatore
-  }
+  word: multiplier
 
-mutable:
-  abbrs:
-    mut:
+- abbrs:
+    - abbr: mut
       context: variables
       degree: yellow
-  translations: {
+  translations:
     it: mutabile
-  }
+  word: mutable
 
-navigation:
-  abbrs:
-    nav: green
-  translations: {
+- abbrs:
+    - abbr: nav
+      degree: green
+  translations:
     it: navigazione
-  }
+  word: navigation
 
-network:
-  abbrs:
-    net: green
+- abbrs:
+    - abbr: net
+      degree: green
   translations: {}
+  word: network
 
-newline:
-  abbrs:
-    nl:
+- abbrs:
+    - abbr: nl
       context: endcoding
       degree: yellow
-  translations: {
+  translations:
     it: nuova linea
-  }
+  word: newline
 
-no:
-  abbrs:
-    n:
+- abbrs:
+    - abbr: "n"
       context: only with **yes**
       degree: yellow
-  translations: {
-    it: no
-  }
+  translations:
+    it: "no"
+  word: "no"
 
-node:
-  abbrs:
-    $...:
+- abbrs:
+    - abbr: $...
       context: DOM
       degree: yellow
-  translations: {
+  translations:
     it: nodo
-  }
+  word: node
 
-not equal:
-  abbrs:
-    ne:
+- abbrs:
+    - abbr: ne
       context: binary operators
       degree: yellow
-  translations: {
+  translations:
     it: diverso
-  }
+  word: not equal
 
-number:
-  abbrs:
-    num: green
-  translations: {
+- abbrs:
+    - abbr: num
+      degree: green
+  translations:
     it: numero
-  }
+  word: number
 
-number of:
-  abbrs:
-    num: green
-  translations: {
+- abbrs:
+    - abbr: num
+      degree: green
+  translations:
     it: numero di
-  }
+  word: number of
 
-object:
-  abbrs:
-    obj: green
-  translations: {
+- abbrs:
+    - abbr: obj
+      degree: green
+  translations:
     it: oggetto
-  }
+  word: object
 
-object key:
-  abbrs:
-    key:
+- abbrs:
+    - abbr: key
       context: only with **val**
       degree: yellow
-  translations: {
+  translations:
     it: chiave oggetto
-  }
+  word: object key
 
-octal:
-  abbrs:
-    oct: green
-  translations: {
+- abbrs:
+    - abbr: oct
+      degree: green
+  translations:
     it: ottale
-  }
+  word: octal
 
-operating system:
-  abbrs:
-    os: green
-  translations: {
+- abbrs:
+    - abbr: os
+      degree: green
+  translations:
     it: sistema operativo
-  }
+  word: operating system
 
-operation:
-  abbrs:
-    op:
+- abbrs:
+    - abbr: op
       context: binary operations
       degree: yellow
-  translations: {
+  translations:
     it: operazione
-  }
+  word: operation
 
-option:
-  abbrs:
-    opt: green
-  translations: {
+- abbrs:
+    - abbr: opt
+      degree: green
+  translations:
     it: opzione
-  }
+  word: option
 
-order:
-  abbrs:
-    ord:
+- abbrs:
+    - abbr: ord
       context: data science
       degree: yellow
-  translations: {
+  translations:
     it: ordine
-  }
+  word: order
 
-organization:
-  abbrs:
-    org: green
-  translations: {
+- abbrs:
+    - abbr: org
+      degree: green
+  translations:
     it: organizzazione
-  }
+  word: organization
 
-output:
-  abbrs:
-    out: green
+- abbrs:
+    - abbr: out
+      degree: green
   translations: {}
+  word: output
 
-parameter:
-  abbrs:
-    param: green
-  translations: {
+- abbrs:
+    - abbr: param
+      degree: green
+  translations:
     it: parametro
-  }
+  word: parameter
 
-performance:
-  abbrs:
-    perf: green
+- abbrs:
+    - abbr: perf
+      degree: green
   translations: {}
+  word: performance
 
-picture:
-  abbrs:
-    pic: green
+- abbrs:
+    - abbr: pic
+      degree: green
   translations: {}
+  word: picture
 
-pixel:
-  abbrs:
-    px: green
-  translations: {
+- abbrs:
+    - abbr: px
+      degree: green
+  translations:
     it: pixel
-  }
+  word: pixel
 
-pointer:
-  abbrs:
-    p:
+- abbrs:
+    - abbr: p
       context: memory
       degree: yellow
-    ptr: green
-  translations: {
+    - abbr: ptr
+      degree: green
+  translations:
     it: puntatore
-  }
+  word: pointer
 
-position:
-  abbrs:
-    pos: green
-  translations: {
+- abbrs:
+    - abbr: pos
+      degree: green
+  translations:
     it: posizione
-  }
+  word: position
 
-power:
-  abbrs:
-    pwr:
+- abbrs:
+    - abbr: pwr
       context: energy
       degree: yellow
-  translations: {
+  translations:
     it: potenza
-  }
+  word: power
 
-prediction:
-  abbrs:
-    pred: green
-  translations: {
+- abbrs:
+    - abbr: pred
+      degree: green
+  translations:
     it: predizione
-  }
+  word: prediction
 
-preference:
-  abbrs:
-    pref: green
-  translations: {
+- abbrs:
+    - abbr: pref
+      degree: green
+  translations:
     it: preferenza
-  }
+  word: preference
 
-previous:
-  abbrs:
-    prev: green
-  translations: {
+- abbrs:
+    - abbr: prev
+      degree: green
+  translations:
     it: precedente
-  }
+  word: previous
 
-private:
-  abbrs:
-    priv: green
-  translations: {
+- abbrs:
+    - abbr: priv
+      degree: green
+  translations:
     it: privato
-  }
+  word: private
 
-process:
-  abbrs:
-    proc:
+- abbrs:
+    - abbr: proc
       context: threads
       degree: yellow
-  translations: {
+  translations:
     it: processo
-  }
+  word: process
 
-production:
-  abbrs:
-    prod: green
-  translations: {
+- abbrs:
+    - abbr: prod
+      degree: green
+  translations:
     it: produzione
-  }
+  word: production
 
-profiler:
-  abbrs:
-    prof: green
-  translations: {
+- abbrs:
+    - abbr: prof
+      degree: green
+  translations:
     it: profilatore
-  }
+  word: profiler
 
-public:
-  abbrs:
-    pub: green
-  translations: {
+- abbrs:
+    - abbr: pub
+      degree: green
+  translations:
     it: pubblico
-  }
+  word: public
 
-query:
-  abbrs:
-    q: green
-    qry: red
+- abbrs:
+    - abbr: q
+      degree: green
+    - abbr: qry
+      degree: red
   translations: {}
+  word: query
 
-radius:
-  abbrs:
-    r:
+- abbrs:
+    - abbr: r
       context: circles
       degree: yellow
-  translations: {
+  translations:
     it: raggio
-  }
+  word: radius
 
-random:
-  abbrs:
-    rand: green
-  translations: {
+- abbrs:
+    - abbr: rand
+      degree: green
+  translations:
     it: casuale
-  }
+  word: random
 
-range:
-  abbrs:
-    rng: green
+- abbrs:
+    - abbr: rng
+      degree: green
   translations: {}
+  word: range
 
-receive:
-  abbrs:
-    recv: green
-  translations: {
+- abbrs:
+    - abbr: recv
+      degree: green
+  translations:
     it: ricevere
-  }
+  word: receive
 
-record:
-  abbrs:
-    rec: green
-  translations: {
+- abbrs:
+    - abbr: rec
+      degree: green
+  translations:
     it: registrare
-  }
+  word: record
 
-rectangle:
-  abbrs:
-    rect:
+- abbrs:
+    - abbr: rect
       context: shapes
       degree: yellow
-  translations: {
+  translations:
     it: rettangolo
-  }
+  word: rectangle
 
-reference:
-  abbrs:
-    ref: green
-  translations: {
+- abbrs:
+    - abbr: ref
+      degree: green
+  translations:
     it: riferimento
-  }
+  word: reference
 
-regular expression:
-  abbrs:
-    regex: green
-    rgx: red
-  translations: {
+- abbrs:
+    - abbr: regex
+      degree: green
+    - abbr: rgx
+      degree: red
+  translations:
     it: espressione regolare
-  }
+  word: regular expression
 
-remote:
-  abbrs:
-    rem: green
-  translations: {
+- abbrs:
+    - abbr: rem
+      degree: green
+  translations:
     it: remoto
-  }
+  word: remote
 
-remove:
-  abbrs:
-    rm: green
-    rmv: green
-  translations: {
+- abbrs:
+    - abbr: rm
+      degree: green
+    - abbr: rmv
+      degree: green
+  translations:
     it: rimuovere
-  }
+  word: remove
 
-repository:
-  abbrs:
-    repo: green
+- abbrs:
+    - abbr: repo
+      degree: green
   translations: {}
+  word: repository
 
-request:
-  abbrs:
-    req: green
-  translations: {
+- abbrs:
+    - abbr: req
+      degree: green
+  translations:
     it: richiesta
-  }
+  word: request
 
-response:
-  abbrs:
-    res: green
-  translations: {
+- abbrs:
+    - abbr: res
+      degree: green
+  translations:
     it: risposta
-  }
+  word: response
 
-result:
-  abbrs:
-    res: green
-  translations: {
+- abbrs:
+    - abbr: res
+      degree: green
+  translations:
     it: risultato
-  }
+  word: result
 
-return:
-  abbrs:
-    ret: green
-  translations: {
+- abbrs:
+    - abbr: ret
+      degree: green
+  translations:
     it: ritorno
-  }
+  word: return
 
-revision:
-  abbrs:
-    rev: green
-  translations: {
+- abbrs:
+    - abbr: rev
+      degree: green
+  translations:
     it: revisione
-  }
+  word: revision
 
-selection:
-  abbrs:
-    sel: green
-  translations: {
+- abbrs:
+    - abbr: sel
+      degree: green
+  translations:
     it: selezione
-  }
+  word: selection
 
-semaphore:
-  abbrs:
-    sem:
+- abbrs:
+    - abbr: sem
       context: conditional operators
       degree: yellow
-  translations: {
+  translations:
     it: semaforo
-  }
+  word: semaphore
 
-sequence:
-  abbrs:
-    seq: green
-  translations: {
+- abbrs:
+    - abbr: seq
+      degree: green
+  translations:
     it: sequenza
-  }
+  word: sequence
 
-signed as prefix:
-  abbrs:
-    s:
+- abbrs:
+    - abbr: s
       context: modifiers
       degree: yellow
-  translations: {
+  translations:
     it: selezionato come prefisso
-  }
+  word: signed as prefix
 
-sine:
-  abbrs:
-    sin: green
-  translations: {
+- abbrs:
+    - abbr: sin
+      degree: green
+  translations:
     it: seno
-  }
+  word: sine
 
-software:
-  abbrs:
-    sw:
+- abbrs:
+    - abbr: sw
       context: computer science
       degree: yellow
   translations: {}
+  word: software
 
-source:
-  abbrs:
-    src: green
-  translations: {
+- abbrs:
+    - abbr: src
+      degree: green
+  translations:
     it: sorgente
-  }
+  word: source
 
-square root:
-  abbrs:
-    sqrt: green
-  translations: {
+- abbrs:
+    - abbr: sqrt
+      degree: green
+  translations:
     it: radice quadrata
-  }
+  word: square root
 
-standard:
-  abbrs:
-    std: green
+- abbrs:
+    - abbr: std
+      degree: green
   translations: {}
+  word: standard
 
-standard input output:
-  abbrs:
-    stdio: green
+- abbrs:
+    - abbr: stdio
+      degree: green
   translations: {}
+  word: standard input output
 
-statistic:
-  abbrs:
-    stat: green
-  translations: {
+- abbrs:
+    - abbr: stat
+      degree: green
+  translations:
     it: statistica
-  }
+  word: statistic
 
-string:
-  abbrs:
-    str: green
-  translations: {
+- abbrs:
+    - abbr: str
+      degree: green
+  translations:
     it: stringa
-  }
+  word: string
 
-synchronization:
-  abbrs:
-    sync: green
-  translations: {
+- abbrs:
+    - abbr: sync
+      degree: green
+  translations:
     it: sincronizzazione
-  }
+  word: synchronization
 
-temperature:
-  abbrs:
-    tmp: green
-  translations: {
+- abbrs:
+    - abbr: tmp
+      degree: green
+  translations:
     it: temperatura
-  }
+  word: temperature
 
-temporary:
-  abbrs:
-    temp: green
-  translations: {
+- abbrs:
+    - abbr: temp
+      degree: green
+  translations:
     it: temporaneo
-  }
+  word: temporary
 
-text:
-  abbrs:
-    txt: red
-  translations: {
+- abbrs:
+    - abbr: txt
+      degree: red
+  translations:
     it: testo
-  }
+  word: text
 
-time:
-  abbrs:
-    t: yellow
-  translations: {
+- abbrs:
+    - abbr: t
+      degree: yellow
+  translations:
     it: tempo
-  }
+  word: time
 
-timer:
-  abbrs:
-    tmr: green
+- abbrs:
+    - abbr: tmr
+      degree: green
   translations: {}
+  word: timer
 
-timestamp:
-  abbrs:
-    ts: green
+- abbrs:
+    - abbr: ts
+      degree: green
   translations: {}
+  word: timestamp
 
-to:
-  abbrs:
-    2: red
-  translations: {
+- abbrs:
+    - abbr: "2"
+      degree: red
+  translations:
     it: a
-  }
+  word: to
 
-
-toggle:
-  abbrs:
-    tgl: red
-  translations: {
+- abbrs:
+    - abbr: tgl
+      degree: red
+  translations:
     it: interruttore
-  }
+  word: toggle
 
-transaction:
-  abbrs:
-    tx: green
-  translations: {
+- abbrs:
+    - abbr: tx
+      degree: green
+  translations:
     it: transazione
-  }
+  word: transaction
 
-type:
-  abbrs:
-    t:
+- abbrs:
+    - abbr: t
       context: modifiers
       degree: yellow
-  translations: {
+  translations:
     it: tipo
-  }
+  word: type
 
-typescript:
-  abbrs:
-    ts: green
+- abbrs:
+    - abbr: ts
+      degree: green
   translations: {}
+  word: typescript
 
-user:
-  abbrs:
-    u:
+- abbrs:
+    - abbr: u
       context: URLs
       degree: yellow
-    usr: red
-  translations: {
+    - abbr: usr
+      degree: red
+  translations:
     it: utente
-  }
+  word: user
 
-utility:
-  abbrs:
-    util: green
-  translations: {
+- abbrs:
+    - abbr: util
+      degree: green
+  translations:
     it: utilità
-  }
+  word: utility
 
-value:
-  abbrs:
-    v:
+- abbrs:
+    - abbr: v
       context: only with **k**
       degree: yellow
-    val: green
-  translations: {
+    - abbr: val
+      degree: green
+  translations:
     it: valore
-  }
+  word: value
 
-variable:
-  abbrs:
-    var: green
-  translations: {
+- abbrs:
+    - abbr: var
+      degree: green
+  translations:
     it: variabile
-  }
+  word: variable
 
-vector:
-  abbrs:
-    v:
+- abbrs:
+    - abbr: v
       context: physics
       degree: yellow
-  translations: {
+  translations:
     it: vettore
-  }
+  word: vector
 
-version:
-  abbrs:
-    v: green
-    ver: red
-  translations: {
+- abbrs:
+    - abbr: v
+      degree: green
+    - abbr: ver
+      degree: red
+  translations:
     it: versione
-  }
+  word: version
 
-vertical:
-  abbrs:
-    ver: green
-  translations: {
+- abbrs:
+    - abbr: ver
+      degree: green
+  translations:
     it: verticale
-  }
+  word: vertical
 
-white space:
-  abbrs:
-    ws:
+- abbrs:
+    - abbr: ws
       context: encoding
       degree: yellow
-  translations: {
+  translations:
     it: spazio bianco
-  }
+  word: white space
 
-width:
-  abbrs:
-    w:
+- abbrs:
+    - abbr: w
       context: shapes
       degree: yellow
-  translations: {
+  translations:
     it: larghezza
-  }
+  word: width
 
-window:
-  abbrs:
-    win: green
-  translations: {
+- abbrs:
+    - abbr: win
+      degree: green
+  translations:
     it: finestra
-  }
+  word: window
 
-yes:
-  abbrs:
-    y:
+- abbrs:
+    - abbr: "y"
       context: only with **n**
       degree: yellow
-  translations: {
+  translations:
     it: si
-  }
+  word: "yes"
