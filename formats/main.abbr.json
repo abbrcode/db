@@ -3,49 +3,65 @@
       "abbrs": {
          "to": "red"
       },
-      "translations": {}
+      "translations": {
+         "it": "a"
+      }
    },
    "abbreviation": {
       "abbrs": {
          "abbr": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "abbreviazione"
+      }
    },
    "absolute": {
       "abbrs": {
          "abs": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "assoluto"
+      }
    },
    "action": {
       "abbrs": {
          "act": "red"
       },
-      "translations": {}
+      "translations": {
+         "it": "azione"
+      }
    },
    "active": {
       "abbrs": {
          "act": "red"
       },
-      "translations": {}
+      "translations": {
+         "it": "attivo"
+      }
    },
    "actual": {
       "abbrs": {
          "act": "red"
       },
-      "translations": {}
+      "translations": {
+         "it": "attuale"
+      }
    },
    "addition": {
       "abbrs": {
          "sum": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "addizione"
+      }
    },
    "address": {
       "abbrs": {
          "addr": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "indirizzo"
+      }
    },
    "allocation": {
       "abbrs": {
@@ -54,59 +70,79 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "allocazione"
+      }
    },
    "alternative": {
       "abbrs": {
          "alt": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "alternativa"
+      }
    },
    "application": {
       "abbrs": {
          "app": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "applicazione"
+      }
    },
    "argument": {
       "abbrs": {
          "arg": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "argomento"
+      }
    },
    "array": {
       "abbrs": {
          "arr": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "vettore"
+      }
    },
    "asynchronous": {
       "abbrs": {
          "async": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "asincrono"
+      }
    },
    "attribute": {
       "abbrs": {
          "attr": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "attributo"
+      }
    },
    "authentication": {
       "abbrs": {},
-      "translations": {}
+      "translations": {
+         "it": "autenticazione"
+      }
    },
    "average": {
       "abbrs": {
          "avg": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "media"
+      }
    },
    "background": {
       "abbrs": {
          "bg": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "sfondo"
+      }
    },
    "battery": {
       "abbrs": {
@@ -115,25 +151,33 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "batteria"
+      }
    },
    "binary": {
       "abbrs": {
          "bin": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "codice binario"
+      }
    },
    "boolean": {
       "abbrs": {
          "bool": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "boleano"
+      }
    },
    "break": {
       "abbrs": {
          "brk": "red"
       },
-      "translations": {}
+      "translations": {
+         "it": "interruzione"
+      }
    },
    "breakline": {
       "abbrs": {
@@ -142,37 +186,49 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "interruzione di riga"
+      }
    },
    "buffer": {
       "abbrs": {
          "buf": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "tampone"
+      }
    },
    "button": {
       "abbrs": {
          "btn": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "bottone"
+      }
    },
    "calculator": {
       "abbrs": {
          "calc": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "calcolatore"
+      }
    },
    "callback": {
       "abbrs": {
          "cb": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "richiamo"
+      }
    },
    "certificate": {
       "abbrs": {
          "cert": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "certificato"
+      }
    },
    "channel": {
       "abbrs": {
@@ -181,19 +237,25 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "canale"
+      }
    },
    "character": {
       "abbrs": {
          "char": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "carattere"
+      }
    },
    "check": {
       "abbrs": {
          "chk": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "controllo"
+      }
    },
    "checksum": {
       "abbrs": {
@@ -202,7 +264,9 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "controllo somma"
+      }
    },
    "circle": {
       "abbrs": {
@@ -211,31 +275,41 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "cerchio"
+      }
    },
    "clear": {
       "abbrs": {
          "clr": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "pulire"
+      }
    },
    "collection": {
       "abbrs": {
          "coll": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "collezione"
+      }
    },
    "column": {
       "abbrs": {
          "col": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "colonna"
+      }
    },
    "command": {
       "abbrs": {
          "cmd": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "comando"
+      }
    },
    "commercial": {
       "abbrs": {
@@ -244,20 +318,26 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "commerciale"
+      }
    },
    "common": {
       "abbrs": {
          "com": "red",
          "comm": "red"
       },
-      "translations": {}
+      "translations": {
+         "it": "comune"
+      }
    },
    "communication": {
       "abbrs": {
          "com": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "comunicazione"
+      }
    },
    "comparison": {
       "abbrs": {
@@ -266,20 +346,26 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "comparazione"
+      }
    },
    "concatenation": {
       "abbrs": {
          "concat": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "concatenazione"
+      }
    },
    "configuration": {
       "abbrs": {
          "conf": "red",
          "config": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "configurazione"
+      }
    },
    "connection": {
       "abbrs": {
@@ -288,74 +374,98 @@
             "degree": "green"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "connessione"
+      }
    },
    "context": {
       "abbrs": {
          "ctx": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "contesto"
+      }
    },
    "continue": {
       "abbrs": {
          "cont": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "continuo"
+      }
    },
    "control": {
       "abbrs": {
          "ctrl": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "controllo"
+      }
    },
    "conversation": {
       "abbrs": {
          "conv": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "conversazione"
+      }
    },
    "coordinate": {
       "abbrs": {
          "coord": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "coordinate"
+      }
    },
    "copy": {
       "abbrs": {
          "cpy": "red"
       },
-      "translations": {}
+      "translations": {
+         "it": "copia"
+      }
    },
    "cosine": {
       "abbrs": {
          "cos": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "coseno"
+      }
    },
    "cotangent": {
       "abbrs": {
          "cot": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "cotangente"
+      }
    },
    "counter": {
       "abbrs": {
          "cnt": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "contatore"
+      }
    },
    "current": {
       "abbrs": {
          "cur": "red",
          "curr": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "corrente"
+      }
    },
    "database": {
       "abbrs": {
          "db": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "database"
+      }
    },
    "debug": {
       "abbrs": {
@@ -367,7 +477,9 @@
       "abbrs": {
          "dec": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "decimale"
+      }
    },
    "decrease": {
       "abbrs": {
@@ -376,25 +488,33 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": null
+      }
    },
    "default": {
       "abbrs": {
          "def": "red"
       },
-      "translations": {}
+      "translations": {
+         "it": null
+      }
    },
    "definition": {
       "abbrs": {
          "def": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "definizione"
+      }
    },
    "delete": {
       "abbrs": {
          "del": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "eliminare"
+      }
    },
    "delta time": {
       "abbrs": {
@@ -403,31 +523,41 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "tempo delta"
+      }
    },
    "description": {
       "abbrs": {
          "desc": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "descrizione"
+      }
    },
    "destination": {
       "abbrs": {
          "dest": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "destinazione"
+      }
    },
    "developer": {
       "abbrs": {
          "dev": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "sviluppatore"
+      }
    },
    "development": {
       "abbrs": {
          "dev": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "sviluppo"
+      }
    },
    "device": {
       "abbrs": {
@@ -436,7 +566,9 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "dispositivo"
+      }
    },
    "difference": {
       "abbrs": {
@@ -445,13 +577,17 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "differenza"
+      }
    },
    "direction": {
       "abbrs": {
          "dir": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "direzione"
+      }
    },
    "directory": {
       "abbrs": {
@@ -463,19 +599,25 @@
       "abbrs": {
          "dis": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "disabilitare"
+      }
    },
    "display": {
       "abbrs": {
          "disp": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "schermo"
+      }
    },
    "document": {
       "abbrs": {
          "doc": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "documento"
+      }
    },
    "driver": {
       "abbrs": {
@@ -487,19 +629,25 @@
       "abbrs": {
          "dyn": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "dinamico"
+      }
    },
    "enable": {
       "abbrs": {
          "en": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "abilitare"
+      }
    },
    "environment": {
       "abbrs": {
          "env": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "ambiente"
+      }
    },
    "equal": {
       "abbrs": {
@@ -508,49 +656,65 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "uguale"
+      }
    },
    "error": {
       "abbrs": {
          "err": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "errore"
+      }
    },
    "event": {
       "abbrs": {
          "e": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "evento"
+      }
    },
    "execution": {
       "abbrs": {
          "exe": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "esecuzione"
+      }
    },
    "expression": {
       "abbrs": {
          "expr": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "espressione"
+      }
    },
    "extension": {
       "abbrs": {
          "ext": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "estensione"
+      }
    },
    "factory": {
       "abbrs": {
          "fac": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "fabbrica"
+      }
    },
    "figure": {
       "abbrs": {
          "fig": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": null
+      }
    },
    "file description": {
       "abbrs": {
@@ -562,13 +726,17 @@
       "abbrs": {
          "e.g.": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "per esempio"
+      }
    },
    "format": {
       "abbrs": {
          "fmt": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "formato"
+      }
    },
    "function": {
       "abbrs": {
@@ -576,19 +744,25 @@
          "fn": "red",
          "func": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "funzione"
+      }
    },
    "function pointer": {
       "abbrs": {
          "fp": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "puntatore di funzione"
+      }
    },
    "generation": {
       "abbrs": {
          "gen": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "generazione"
+      }
    },
    "greater or equal": {
       "abbrs": {
@@ -597,7 +771,9 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "maggiore uguale"
+      }
    },
    "greater than": {
       "abbrs": {
@@ -606,7 +782,9 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "maggiore di"
+      }
    },
    "hardware": {
       "abbrs": {
@@ -630,13 +808,17 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "altezza"
+      }
    },
    "hexadecimal": {
       "abbrs": {
          "hex": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "esadecimale"
+      }
    },
    "horizontal": {
       "abbrs": {
@@ -645,31 +827,41 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "orizzontale"
+      }
    },
    "identifier": {
       "abbrs": {
          "id": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "identificatore"
+      }
    },
    "image": {
       "abbrs": {
          "img": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "immagine"
+      }
    },
    "implementation": {
       "abbrs": {
          "impl": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "implementazione"
+      }
    },
    "inclusion": {
       "abbrs": {
          "inc": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "inclusione"
+      }
    },
    "increase": {
       "abbrs": {
@@ -678,25 +870,33 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "aumentare"
+      }
    },
    "index": {
       "abbrs": {
          "idx": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "indice"
+      }
    },
    "information": {
       "abbrs": {
          "info": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "informazione"
+      }
    },
    "initialization": {
       "abbrs": {
          "init": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "inizializzazione"
+      }
    },
    "input": {
       "abbrs": {
@@ -708,7 +908,9 @@
       "abbrs": {
          "ins": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "inserzione"
+      }
    },
    "integer": {
       "abbrs": {
@@ -721,7 +923,9 @@
          "iface": "green",
          "intf": "red"
       },
-      "translations": {}
+      "translations": {
+         "it": "interfaccia"
+      }
    },
    "iterator": {
       "abbrs": {
@@ -730,7 +934,9 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "iteratore"
+      }
    },
    "javascript": {
       "abbrs": {
@@ -742,7 +948,9 @@
       "abbrs": {
          "lang": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "lingua"
+      }
    },
    "latitude": {
       "abbrs": {
@@ -751,13 +959,17 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "latitudine"
+      }
    },
    "length": {
       "abbrs": {
          "len": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "lunghezza"
+      }
    },
    "less or equal": {
       "abbrs": {
@@ -766,7 +978,9 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "minore uguale"
+      }
    },
    "less than": {
       "abbrs": {
@@ -775,13 +989,17 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "minore di"
+      }
    },
    "library": {
       "abbrs": {
          "lib": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "librearia"
+      }
    },
    "linked list": {
       "abbrs": {
@@ -796,7 +1014,9 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "longitudine"
+      }
    },
    "manager": {
       "abbrs": {
@@ -808,19 +1028,25 @@
       "abbrs": {
          "max": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "massimo"
+      }
    },
    "memory": {
       "abbrs": {
          "mem": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "memoria"
+      }
    },
    "message": {
       "abbrs": {
          "msg": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "messaggio"
+      }
    },
    "metadata": {
       "abbrs": {
@@ -835,19 +1061,25 @@
       "abbrs": {
          "mcu": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "microcontrollore"
+      }
    },
    "middle": {
       "abbrs": {
          "mid": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "mezzo"
+      }
    },
    "minimum": {
       "abbrs": {
          "min": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "minimo"
+      }
    },
    "miscellaneous": {
       "abbrs": {
@@ -859,13 +1091,17 @@
       "abbrs": {
          "mod": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "modulo"
+      }
    },
    "multiplier": {
       "abbrs": {
          "mplr": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "moltiplicatore"
+      }
    },
    "mutable": {
       "abbrs": {
@@ -874,13 +1110,17 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "mutabile"
+      }
    },
    "navigation": {
       "abbrs": {
          "nav": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "navigazione"
+      }
    },
    "network": {
       "abbrs": {
@@ -895,7 +1135,9 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "nuova linea"
+      }
    },
    "no": {
       "abbrs": {
@@ -904,7 +1146,9 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "no"
+      }
    },
    "node": {
       "abbrs": {
@@ -913,7 +1157,9 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "nodo"
+      }
    },
    "not equal": {
       "abbrs": {
@@ -922,25 +1168,33 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "non u"
+      }
    },
    "number": {
       "abbrs": {
          "num": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "numero"
+      }
    },
    "number of": {
       "abbrs": {
          "num": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "numero di"
+      }
    },
    "object": {
       "abbrs": {
          "obj": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "oggetto"
+      }
    },
    "object key": {
       "abbrs": {
@@ -949,19 +1203,25 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "chiave oggetto"
+      }
    },
    "octal": {
       "abbrs": {
          "oct": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "ottale"
+      }
    },
    "operating system": {
       "abbrs": {
          "os": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "sistema operativo"
+      }
    },
    "operation": {
       "abbrs": {
@@ -970,13 +1230,17 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "operazione"
+      }
    },
    "option": {
       "abbrs": {
          "opt": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "opzione"
+      }
    },
    "order": {
       "abbrs": {
@@ -985,13 +1249,17 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "ordine"
+      }
    },
    "organization": {
       "abbrs": {
          "org": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "organizzazione"
+      }
    },
    "output": {
       "abbrs": {
@@ -1003,7 +1271,9 @@
       "abbrs": {
          "param": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "parametro"
+      }
    },
    "performance": {
       "abbrs": {
@@ -1021,7 +1291,9 @@
       "abbrs": {
          "px": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "pixel"
+      }
    },
    "pointer": {
       "abbrs": {
@@ -1031,13 +1303,17 @@
          },
          "ptr": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "puntatore"
+      }
    },
    "position": {
       "abbrs": {
          "pos": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "posizione"
+      }
    },
    "power": {
       "abbrs": {
@@ -1046,31 +1322,41 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "potenza"
+      }
    },
    "prediction": {
       "abbrs": {
          "pred": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "predizione"
+      }
    },
    "preference": {
       "abbrs": {
          "pref": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "preferenza"
+      }
    },
    "previous": {
       "abbrs": {
          "prev": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "precedente"
+      }
    },
    "private": {
       "abbrs": {
          "priv": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "privato"
+      }
    },
    "process": {
       "abbrs": {
@@ -1079,25 +1365,33 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "processo"
+      }
    },
    "production": {
       "abbrs": {
          "prod": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "produzione"
+      }
    },
    "profiler": {
       "abbrs": {
          "prof": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "profilatore"
+      }
    },
    "public": {
       "abbrs": {
          "pub": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "pubblico"
+      }
    },
    "query": {
       "abbrs": {
@@ -1113,13 +1407,17 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "raggio"
+      }
    },
    "random": {
       "abbrs": {
          "rand": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "casuale"
+      }
    },
    "range": {
       "abbrs": {
@@ -1131,13 +1429,17 @@
       "abbrs": {
          "recv": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "ricevere"
+      }
    },
    "record": {
       "abbrs": {
          "rec": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "registrare"
+      }
    },
    "rectangle": {
       "abbrs": {
@@ -1146,33 +1448,43 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "rettangolo"
+      }
    },
    "reference": {
       "abbrs": {
          "ref": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "riferimento"
+      }
    },
    "regular expression": {
       "abbrs": {
          "regex": "green",
          "rgx": "red"
       },
-      "translations": {}
+      "translations": {
+         "it": "espressione regolare"
+      }
    },
    "remote": {
       "abbrs": {
          "rem": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "remoto"
+      }
    },
    "remove": {
       "abbrs": {
          "rm": "green",
          "rmv": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "rimuovere"
+      }
    },
    "repository": {
       "abbrs": {
@@ -1184,37 +1496,49 @@
       "abbrs": {
          "req": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "richiesta"
+      }
    },
    "response": {
       "abbrs": {
          "res": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "risposta"
+      }
    },
    "result": {
       "abbrs": {
          "res": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "risultato"
+      }
    },
    "return": {
       "abbrs": {
          "ret": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "ritorno"
+      }
    },
    "revision": {
       "abbrs": {
          "rev": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "revisione"
+      }
    },
    "selection": {
       "abbrs": {
          "sel": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "selezione"
+      }
    },
    "semaphore": {
       "abbrs": {
@@ -1223,13 +1547,17 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "semaforo"
+      }
    },
    "sequence": {
       "abbrs": {
          "seq": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "sequenza"
+      }
    },
    "signed as prefix": {
       "abbrs": {
@@ -1238,13 +1566,17 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "firmato come prefisso"
+      }
    },
    "sine": {
       "abbrs": {
          "sin": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "seno"
+      }
    },
    "software": {
       "abbrs": {
@@ -1259,13 +1591,17 @@
       "abbrs": {
          "src": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "sorgente"
+      }
    },
    "square root": {
       "abbrs": {
          "sqrt": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "radice quadrata"
+      }
    },
    "standard": {
       "abbrs": {
@@ -1283,43 +1619,57 @@
       "abbrs": {
          "stat": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "statistica"
+      }
    },
    "string": {
       "abbrs": {
          "str": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "stringa"
+      }
    },
    "synchronization": {
       "abbrs": {
          "sync": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "sincronizzazione"
+      }
    },
    "temperature": {
       "abbrs": {
          "tmp": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "temperatura"
+      }
    },
    "temporary": {
       "abbrs": {
          "temp": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "temporaneo"
+      }
    },
    "text": {
       "abbrs": {
          "txt": "red"
       },
-      "translations": {}
+      "translations": {
+         "it": "testo"
+      }
    },
    "time": {
       "abbrs": {
          "t": "yellow"
       },
-      "translations": {}
+      "translations": {
+         "it": "tempo"
+      }
    },
    "timer": {
       "abbrs": {
@@ -1337,7 +1687,9 @@
       "abbrs": {
          "2": "red"
       },
-      "translations": {}
+      "translations": {
+         "it": "a"
+      }
    },
    "toggle": {
       "abbrs": {
@@ -1349,7 +1701,9 @@
       "abbrs": {
          "tx": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "transazione"
+      }
    },
    "type": {
       "abbrs": {
@@ -1358,7 +1712,9 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "tipo"
+      }
    },
    "typescript": {
       "abbrs": {
@@ -1374,13 +1730,17 @@
          },
          "usr": "red"
       },
-      "translations": {}
+      "translations": {
+         "it": "utente"
+      }
    },
    "utility": {
       "abbrs": {
          "util": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "utilita"
+      }
    },
    "value": {
       "abbrs": {
@@ -1390,13 +1750,17 @@
          },
          "val": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "valore"
+      }
    },
    "variable": {
       "abbrs": {
          "var": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "variabile"
+      }
    },
    "vector": {
       "abbrs": {
@@ -1405,20 +1769,26 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "vettore"
+      }
    },
    "version": {
       "abbrs": {
          "v": "green",
          "ver": "red"
       },
-      "translations": {}
+      "translations": {
+         "it": "versione"
+      }
    },
    "vertical": {
       "abbrs": {
          "ver": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "verticale"
+      }
    },
    "white space": {
       "abbrs": {
@@ -1427,7 +1797,9 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "spazio bianco"
+      }
    },
    "width": {
       "abbrs": {
@@ -1436,13 +1808,17 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "larghezza"
+      }
    },
    "window": {
       "abbrs": {
          "win": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "finestra"
+      }
    },
    "yes": {
       "abbrs": {
@@ -1451,6 +1827,8 @@
             "degree": "yellow"
          }
       },
-      "translations": {}
+      "translations": {
+         "it": "si"
+      }
    }
 }
