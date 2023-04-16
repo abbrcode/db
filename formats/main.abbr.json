@@ -79,7 +79,7 @@
          "alt": "green"
       },
       "translations": {
-         "it": "alternativa"
+         "it": "alternativo"
       }
    },
    "application": {
@@ -102,9 +102,7 @@
       "abbrs": {
          "arr": "green"
       },
-      "translations": {
-         "it": "vettore"
-      }
+      "translations": {}
    },
    "asynchronous": {
       "abbrs": {
@@ -194,9 +192,7 @@
       "abbrs": {
          "buf": "green"
       },
-      "translations": {
-         "it": "tampone"
-      }
+      "translations": {}
    },
    "button": {
       "abbrs": {
@@ -218,9 +214,7 @@
       "abbrs": {
          "cb": "green"
       },
-      "translations": {
-         "it": "richiamo"
-      }
+      "translations": {}
    },
    "certificate": {
       "abbrs": {
@@ -264,9 +258,7 @@
             "degree": "yellow"
          }
       },
-      "translations": {
-         "it": "controllo somma"
-      }
+      "translations": {}
    },
    "circle": {
       "abbrs": {
@@ -284,7 +276,7 @@
          "clr": "green"
       },
       "translations": {
-         "it": "pulire"
+         "it": "pulizia"
       }
    },
    "collection": {
@@ -463,9 +455,7 @@
       "abbrs": {
          "db": "green"
       },
-      "translations": {
-         "it": "database"
-      }
+      "translations": {}
    },
    "debug": {
       "abbrs": {
@@ -489,7 +479,7 @@
          }
       },
       "translations": {
-         "it": null
+         "it": "decremento"
       }
    },
    "default": {
@@ -497,7 +487,7 @@
          "def": "red"
       },
       "translations": {
-         "it": null
+         "it": "predefinito"
       }
    },
    "definition": {
@@ -508,12 +498,12 @@
          "it": "definizione"
       }
    },
-   "delete": {
+   "deletion": {
       "abbrs": {
          "del": "green"
       },
       "translations": {
-         "it": "eliminare"
+         "it": "eliminazione"
       }
    },
    "delta time": {
@@ -712,9 +702,7 @@
       "abbrs": {
          "fig": "green"
       },
-      "translations": {
-         "it": null
-      }
+      "translations": {}
    },
    "file description": {
       "abbrs": {
@@ -871,7 +859,7 @@
          }
       },
       "translations": {
-         "it": "aumentare"
+         "it": "aumento"
       }
    },
    "index": {
@@ -916,7 +904,9 @@
       "abbrs": {
          "int": "green"
       },
-      "translations": {}
+      "translations": {
+         "it": "intero"
+      }
    },
    "interface": {
       "abbrs": {
@@ -1061,9 +1051,7 @@
       "abbrs": {
          "mcu": "green"
       },
-      "translations": {
-         "it": "microcontrollore"
-      }
+      "translations": {}
    },
    "middle": {
       "abbrs": {
@@ -1169,7 +1157,7 @@
          }
       },
       "translations": {
-         "it": "non u"
+         "it": "diverso"
       }
    },
    "number": {
@@ -1567,7 +1555,7 @@
          }
       },
       "translations": {
-         "it": "firmato come prefisso"
+         "it": "selezionato come prefisso"
       }
    },
    "sine": {
@@ -1695,7 +1683,9 @@
       "abbrs": {
          "tgl": "red"
       },
-      "translations": {}
+      "translations": {
+         "it": "interruttore"
+      }
    },
    "transaction": {
       "abbrs": {
@@ -1739,7 +1729,7 @@
          "util": "green"
       },
       "translations": {
-         "it": "utilita"
+         "it": "utilità"
       }
    },
    "value": {

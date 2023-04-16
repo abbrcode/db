@@ -428,11 +428,11 @@ definition:
     it: definizione
   }
 
-delete:
+deletion:
   abbrs:
     del: green
   translations: {
-    it: eliminare
+    it: eliminazione
   }
 
 delta time:
