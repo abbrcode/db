@@ -1,6 +1,6 @@
 {
    "scripts": {
-      "gen": "node ./src/gen.mjs"
+      "compile": "node ./src/index.mjs"
    },
    "dependencies": {
       "js-yaml": "^4.1.0"
