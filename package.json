@@ -1,0 +1,8 @@
+{
+   "scripts": {
+      "gen": "node ./scripts/gen.mjs"
+   },
+   "dependencies": {
+      "js-yaml": "^4.1.0"
+   }
+}
