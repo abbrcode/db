@@ -6,10 +6,12 @@ let db = readFileSync('./data/main.abbr.yml', 'utf8');
 
 let list = yaml.load(db);
 
+// format translations
+
 // main.json
 writeFileSync('./data/formats/main.json', JSON.stringify(list, null, 3), 'utf8');
 
-// abbr-in-code
+// abbrincode README
 import abbrincode from './abbrincode.mjs';
 
 abbrincode();

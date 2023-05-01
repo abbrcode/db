@@ -1,39 +1,53 @@
 import { readFileSync, writeFileSync } from 'fs';
 
+let capitalize = text => text[0].toUpperCase() + text.substring(1);
+
 export default () => {
-   let list = JSON.parse(readFileSync('./data/formats/main.json', 'utf8'));
+   let abbrs = JSON.parse(readFileSync('./data/formats/main.json', 'utf8'));
    let degrees = JSON.parse(readFileSync('./data/abbrincode/degrees.json', 'utf8'));
 
-   let text = '';
-   let section = '';
+   let alphabet = 'abcdefghijklmnopqrstuvwxyz';
 
-   for (let obj of list) {
-      let capitalLetter = obj.word[0];
+   let list = '## List\n';
+   let main = '';
 
-      if (capitalLetter.match(/\d/)) capitalLetter = 'Number';
+   let section = (title, filterCb) => {
+      list += `[${capitalize(title)}](#${title})`;
+      main += `\n### ${capitalize(title)}\n\n`;
 
-      if (section !== capitalLetter) {
-         section = capitalLetter;
+      let abbrsOfLetter = abbrs.filter(filterCb);
 
-         text += `\n### ${section[0].toUpperCase() + section.substring(1)}\n\n`;
+      for (let abbrObj of abbrsOfLetter) {
+         main += `- ${abbrObj.word}`;
+
+         for (let abbr of abbrObj.abbrs) {
+            main += ` • ${degrees[abbr.degree]} ${abbr.abbr}`;
+
+            if (abbr.degree === 'yellow') main += ` { ${abbr.context} }`;
+         }
+
+         main += '\n';
       }
+   };
 
-      //
-      text += `- ${obj.word}`;
+   // sections
+   list += '- ';
 
-      for (let abbr of obj.abbrs) {
-         text += ` • ${degrees[abbr.degree]} ${abbr.abbr}`;
+   section('numbers', val => val.word.match(/\d/));
 
-         if (abbr.degree === 'yellow') text += ` { ${abbr.context} }`;
-      }
+   list += '\n- ';
 
-      text += '\n';
+   for (let letter of alphabet) {
+      section(letter, val => letter === val.word[0]);
+
+      list += ' ';
    }
 
-   text += '\n';
+   // abbrs length
+   main += `\n<br/>\n\n---\n\n<br/>\n\n${abbrs.length} abbrs in the list.`;
 
    let header = readFileSync('./data/abbrincode/header.md', 'utf8');
    let footer = readFileSync('./data/abbrincode/footer.md', 'utf8');
 
-   writeFileSync('../abbreviations-in-code/README.md', header + text + footer, 'utf8');
+   writeFileSync('../abbreviations-in-code/README.md', `${header}\n${list}\n${main}\n${footer}`, 'utf8');
 };
