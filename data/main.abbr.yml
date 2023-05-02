@@ -1355,6 +1355,13 @@
   word: source
 
 - abbrs:
+    - abbr: space
+      degree: green
+  translations:
+    it: specificazione
+  word: specification
+
+- abbrs:
     - abbr: sqrt
       degree: green
   translations:
