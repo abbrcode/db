@@ -55,6 +55,13 @@
   word: address
 
 - abbrs:
+    - abbr: algo
+      degree: green
+  translations:
+    it: algoritmo
+  word: algorithm
+
+- abbrs:
     - abbr: alloc
       context: memory
       degree: yellow
