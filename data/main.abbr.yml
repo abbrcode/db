@@ -110,7 +110,9 @@
     it: attributo
   word: attribute
 
-- abbrs: []
+- abbrs: 
+    - abbr: auth
+      degree: green
   translations:
     it: autenticazione
   word: authentication
