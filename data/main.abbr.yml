@@ -20,6 +20,13 @@
   word: absolute
 
 - abbrs:
+    - abbr: acro
+      degree: green
+  translations:
+    it: acronimo
+  word: acronym
+
+- abbrs:
     - abbr: act
       degree: red
   translations:
@@ -117,6 +124,13 @@
     it: autenticazione
   word: authentication
 
+- abbrs: 
+  - abbr: aux
+    degree: green
+  translations:
+    it: ausiliario
+  word: auxiliary
+
 - abbrs:
     - abbr: avg
       degree: green
@@ -170,6 +184,8 @@
 
 - abbrs:
     - abbr: buf
+      degree: red
+    - abbr: buff
       degree: green
   translations: {}
   word: buffer
@@ -239,6 +255,13 @@
   word: circle
 
 - abbrs:
+  - abbr: cls
+    degree: red
+  translations:
+    it: classe
+  word: class
+
+- abbrs:
     - abbr: clr
       degree: green
   translations:
@@ -306,6 +329,8 @@
   word: concatenation
 
 - abbrs:
+    - abbr: cfg
+      degree: red
     - abbr: conf
       degree: red
     - abbr: config
@@ -315,12 +340,20 @@
   word: configuration
 
 - abbrs:
+    - abbr: con
+      degree: red
     - abbr: conn
-      context: connections
       degree: green
   translations:
     it: connessione
   word: connection
+
+- abbrs:
+    - abbr: const
+      degree: green
+  translations:
+    it: costante
+  word: constant
 
 - abbrs:
     - abbr: ctx
@@ -382,8 +415,8 @@
     - abbr: cnt
       degree: green
   translations:
-    it: contatore
-  word: counter
+    it: conto
+  word: count
 
 - abbrs:
     - abbr: cur
@@ -495,6 +528,13 @@
   word: difference
 
 - abbrs:
+    - abbr: dim
+      degree: green
+  translations:
+    it: dimensione
+  word: dimension
+
+- abbrs:
     - abbr: dir
       degree: green
   translations:
@@ -520,6 +560,13 @@
   translations:
     it: schermo
   word: display
+
+- abbrs:
+    - abbr: div
+      degree: green
+  translations:
+    it: divisione
+  word: division
 
 - abbrs:
     - abbr: doc
@@ -573,6 +620,8 @@
 - abbrs:
     - abbr: e
       degree: green
+    - abbr: evt
+      degree: green
   translations:
     it: evento
   word: event
@@ -612,10 +661,40 @@
   word: figure
 
 - abbrs:
+    - abbr: fc
+      degree: green
+  translations: {}
+  word: file chooser
+
+- abbrs:
     - abbr: fd
       degree: green
   translations: {}
   word: file description
+
+- abbrs:
+    - abbr: fp
+      degree: green
+  translations: {}
+  word: file processor
+
+- abbrs:
+    - abbr: fr
+      degree: green
+  translations: {}
+  word: file reader
+
+- abbrs:
+    - abbr: fs
+      degree: green
+  translations: {}
+  word: file system
+
+- abbrs:
+    - abbr: fw
+      degree: green
+  translations: {}
+  word: file writer
 
 - abbrs:
     - abbr: e.g.
@@ -630,6 +709,20 @@
   translations:
     it: formato
   word: format
+
+- abbrs:
+    - abbr: frac
+      degree: green
+  translations:
+    it: frazione
+  word: fraction
+
+- abbrs:
+    - abbr: freq
+      degree: green
+  translations:
+    it: frequenza
+  word: frequence
 
 - abbrs:
     - abbr: f
@@ -730,6 +823,13 @@
   word: implementation
 
 - abbrs:
+    - abbr: imp
+      degree: green
+  translations:
+    it: importazione
+  word: import
+
+- abbrs:
     - abbr: inc
       degree: green
   translations:
@@ -779,6 +879,13 @@
   word: insertion
 
 - abbrs:
+    - abbr: inst
+      degree: green
+  translations:
+    it: istanza
+  word: instance
+
+- abbrs:
     - abbr: int
       degree: green
   translations:
@@ -807,6 +914,27 @@
       degree: green
   translations: {}
   word: javascript
+
+- abbrs:
+    - abbr: k
+      context: only with **val**
+      degree: yellow
+  translations:
+    it: chiave
+  word: key
+
+- abbrs:
+    - abbr: km
+      degree: green
+  translations: {}
+  word: keymap
+
+- abbrs:
+    - abbr: kwd
+      degree: green
+  translations:
+    it: tastiera
+  word: keyword
 
 - abbrs:
     - abbr: lang
@@ -854,10 +982,30 @@
   word: library
 
 - abbrs:
+    - abbr: lnk
+      degree: red
+  translations: {}
+  word: link
+
+- abbrs:
     - abbr: ll
       degree: green
   translations: {}
   word: linked list
+
+- abbrs:
+    - abbr: lvl
+      degree: green
+  translations:
+    it: livello
+  word: level
+
+- abbrs:
+    - abbr: loc
+      degree: green
+  translations:
+    it: posizione
+  word: location
 
 - abbrs:
     - abbr: lon
@@ -935,11 +1083,11 @@
   word: modulo
 
 - abbrs:
-    - abbr: mplr
+    - abbr: mul
       degree: green
   translations:
-    it: moltiplicatore
-  word: multiplier
+    it: moltiplicazione
+  word: multiplication
 
 - abbrs:
     - abbr: mut
@@ -1068,10 +1216,24 @@
   word: organization
 
 - abbrs:
+    - abbr: orig
+      degree: green
+  translations:
+    it: origine
+  word: origin
+
+- abbrs:
     - abbr: out
       degree: green
   translations: {}
   word: output
+
+- abbrs:
+    - abbr: pkg
+      degree: green
+  translations:
+    it: pacchetto
+  word: package
 
 - abbrs:
     - abbr: param
@@ -1108,6 +1270,13 @@
   translations:
     it: puntatore
   word: pointer
+
+- abbrs:
+    - abbr: pol
+      degree: green
+  translations:
+    it: poligono
+  word: poligon
 
 - abbrs:
     - abbr: pos
@@ -1200,6 +1369,8 @@
 - abbrs:
     - abbr: rand
       degree: green
+    - abbr: rnd
+      degree: red
   translations:
     it: casuale
   word: random
@@ -1247,6 +1418,13 @@
   translations:
     it: espressione regolare
   word: regular expression
+
+- abbrs:
+    - abbr: rel
+      degree: green
+  translations:
+    it: relation
+  word: relation
 
 - abbrs:
     - abbr: rem
@@ -1306,6 +1484,12 @@
   word: revision
 
 - abbrs:
+    - abbr: sc
+      degree: red
+  translations: {}
+  word: script
+
+- abbrs:
     - abbr: sel
       degree: green
   translations:
@@ -1350,6 +1534,15 @@
   word: software
 
 - abbrs:
+    - abbr: sln
+      degree: red
+    - abbr: sol
+      degree: green
+  translations:
+    it: soluzione
+  word: solution
+
+- abbrs:
     - abbr: src
       degree: green
   translations:
@@ -1357,7 +1550,7 @@
   word: source
 
 - abbrs:
-    - abbr: space
+    - abbr: spec
       degree: green
   translations:
     it: specificazione
@@ -1397,11 +1590,44 @@
   word: string
 
 - abbrs:
+    - abbr: sub
+      degree: green
+  translations:
+    it: sottrazione
+  word: subtration
+
+- abbrs:
     - abbr: sync
       degree: green
   translations:
     it: sincronizzazione
   word: synchronization
+
+- abbrs:
+    - abbr: td
+      degree: green
+  translations: {}
+  word: table data
+
+- abbrs:
+    - abbr: th
+      degree: green
+  translations: {}
+  word: table header
+
+- abbrs:
+    - abbr: tr
+      degree: green
+  translations:
+    it: riga
+  word: table row
+
+- abbrs:
+    - abbr: tgt
+      degree: red
+  translations:
+    it: bersaglio
+  word: target
 
 - abbrs:
     - abbr: tmp
@@ -1468,6 +1694,8 @@
     - abbr: t
       context: modifiers
       degree: yellow
+    - abbr: tpe
+      degree: red
   translations:
     it: tipo
   word: type
@@ -1558,6 +1786,12 @@
   translations:
     it: finestra
   word: window
+
+- abbrs:
+    - abbr: wiz
+      degree: green
+  translations: {}
+  word: wizard
 
 - abbrs:
     - abbr: "y"

@@ -38,6 +38,18 @@
    {
       "abbrs": [
          {
+            "abbr": "acro",
+            "degree": "green"
+         }
+      ],
+      "translations": {
+         "it": "acronimo"
+      },
+      "word": "acronym"
+   },
+   {
+      "abbrs": [
+         {
             "abbr": "act",
             "degree": "red"
          }
@@ -205,6 +217,18 @@
    {
       "abbrs": [
          {
+            "abbr": "aux",
+            "degree": "green"
+         }
+      ],
+      "translations": {
+         "it": "ausiliario"
+      },
+      "word": "auxiliary"
+   },
+   {
+      "abbrs": [
+         {
             "abbr": "avg",
             "degree": "green"
          }
@@ -292,6 +316,10 @@
       "abbrs": [
          {
             "abbr": "buf",
+            "degree": "red"
+         },
+         {
+            "abbr": "buff",
             "degree": "green"
          }
       ],
@@ -404,6 +432,18 @@
          "it": "cerchio"
       },
       "word": "circle"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "cls",
+            "degree": "red"
+         }
+      ],
+      "translations": {
+         "it": "classe"
+      },
+      "word": "class"
    },
    {
       "abbrs": [
@@ -522,6 +562,10 @@
    {
       "abbrs": [
          {
+            "abbr": "cfg",
+            "degree": "red"
+         },
+         {
             "abbr": "conf",
             "degree": "red"
          },
@@ -547,6 +591,18 @@
          "it": "connessione"
       },
       "word": "connection"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "const",
+            "degree": "green"
+         }
+      ],
+      "translations": {
+         "it": "costante"
+      },
+      "word": "constant"
    },
    {
       "abbrs": [
@@ -652,9 +708,9 @@
          }
       ],
       "translations": {
-         "it": "contatore"
+         "it": "conto"
       },
-      "word": "counter"
+      "word": "count"
    },
    {
       "abbrs": [
@@ -843,6 +899,18 @@
    {
       "abbrs": [
          {
+            "abbr": "dim",
+            "degree": "yellow"
+         }
+      ],
+      "translations": {
+         "it": "dimensione"
+      },
+      "word": "dimension"
+   },
+   {
+      "abbrs": [
+         {
             "abbr": "dir",
             "degree": "green"
          }
@@ -885,6 +953,18 @@
          "it": "schermo"
       },
       "word": "display"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "div",
+            "degree": "yellow"
+         }
+      ],
+      "translations": {
+         "it": "divisione"
+      },
+      "word": "division"
    },
    {
       "abbrs": [
@@ -974,6 +1054,10 @@
          {
             "abbr": "e",
             "degree": "green"
+         },
+         {
+            "abbr": "evt",
+            "degree": "green"
          }
       ],
       "translations": {
@@ -1042,12 +1126,62 @@
    {
       "abbrs": [
          {
+            "abbr": "fc",
+            "degree": "green"
+         }
+      ],
+      "translations": {},
+      "word": "file chooser"
+   },
+   {
+      "abbrs": [
+         {
             "abbr": "fd",
             "degree": "green"
          }
       ],
       "translations": {},
       "word": "file description"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "fp",
+            "degree": "green"
+         }
+      ],
+      "translations": {},
+      "word": "file processor"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "fr",
+            "degree": "green"
+         }
+      ],
+      "translations": {},
+      "word": "file reader"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "fs",
+            "degree": "green"
+         }
+      ],
+      "translations": {},
+      "word": "file system"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "fw",
+            "degree": "green"
+         }
+      ],
+      "translations": {},
+      "word": "file writer"
    },
    {
       "abbrs": [
@@ -1072,6 +1206,30 @@
          "it": "formato"
       },
       "word": "format"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "frac",
+            "degree": "green"
+         }
+      ],
+      "translations": {
+         "it": "frazione"
+      },
+      "word": "fraction"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "freq",
+            "degree": "green"
+         }
+      ],
+      "translations": {
+         "it": "frequenza"
+      },
+      "word": "frequence"
    },
    {
       "abbrs": [
@@ -1241,6 +1399,18 @@
    {
       "abbrs": [
          {
+            "abbr": "imp",
+            "degree": "green"
+         }
+      ],
+      "translations": {
+         "it": "importazione"
+      },
+      "word": "import"
+   },
+   {
+      "abbrs": [
+         {
             "abbr": "inc",
             "degree": "green"
          }
@@ -1324,6 +1494,18 @@
    {
       "abbrs": [
          {
+            "abbr": "inst",
+            "degree": "green"
+         }
+      ],
+      "translations": {
+         "it": "istanza"
+      },
+      "word": "instance"
+   },
+   {
+      "abbrs": [
+         {
             "abbr": "int",
             "degree": "green"
          }
@@ -1371,6 +1553,41 @@
       ],
       "translations": {},
       "word": "javascript"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "k",
+            "context": "only with **val**",
+            "degree": "yellow"
+         }
+      ],
+      "translations": {
+         "it": "chiave"
+      },
+      "word": "key"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "km",
+            "degree": "green"
+         }
+      ],
+      "translations": {},
+      "word": "keymap"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "kwd",
+            "degree": "green"
+         }
+      ],
+      "translations": {
+         "it": "tastiera"
+      },
+      "word": "keyword"
    },
    {
       "abbrs": [
@@ -1450,12 +1667,46 @@
    {
       "abbrs": [
          {
+            "abbr": "lnk",
+            "degree": "red"
+         }
+      ],
+      "translations": {},
+      "word": "link"
+   },
+   {
+      "abbrs": [
+         {
             "abbr": "ll",
             "degree": "green"
          }
       ],
       "translations": {},
       "word": "linked list"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "lvl",
+            "degree": "green"
+         }
+      ],
+      "translations": {
+         "it": "livello"
+      },
+      "word": "level"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "loc",
+            "degree": "green"
+         }
+      ],
+      "translations": {
+         "it": "posizione"
+      },
+      "word": "location"
    },
    {
       "abbrs": [
@@ -1586,14 +1837,14 @@
    {
       "abbrs": [
          {
-            "abbr": "mplr",
+            "abbr": "mul",
             "degree": "green"
          }
       ],
       "translations": {
-         "it": "moltiplicatore"
+         "it": "moltiplicazione"
       },
-      "word": "multiplier"
+      "word": "multiplication"
    },
    {
       "abbrs": [
@@ -1808,12 +2059,36 @@
    {
       "abbrs": [
          {
+            "abbr": "orig",
+            "degree": "green"
+         }
+      ],
+      "translations": {
+         "it": "origine"
+      },
+      "word": "origin"
+   },
+   {
+      "abbrs": [
+         {
             "abbr": "out",
             "degree": "green"
          }
       ],
       "translations": {},
       "word": "output"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "pkg",
+            "degree": "green"
+         }
+      ],
+      "translations": {
+         "it": "pacchetto"
+      },
+      "word": "package"
    },
    {
       "abbrs": [
@@ -1875,6 +2150,18 @@
          "it": "puntatore"
       },
       "word": "pointer"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "pol",
+            "degree": "green"
+         }
+      ],
+      "translations": {
+         "it": "poligono"
+      },
+      "word": "poligon"
    },
    {
       "abbrs": [
@@ -2030,6 +2317,10 @@
          {
             "abbr": "rand",
             "degree": "green"
+         },
+         {
+            "abbr": "rnd",
+            "degree": "red"
          }
       ],
       "translations": {
@@ -2111,6 +2402,18 @@
          "it": "espressione regolare"
       },
       "word": "regular expression"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "rel",
+            "degree": "green"
+         }
+      ],
+      "translations": {
+         "it": "relation"
+      },
+      "word": "relation"
    },
    {
       "abbrs": [
@@ -2213,6 +2516,16 @@
    {
       "abbrs": [
          {
+            "abbr": "sc",
+            "degree": "red"
+         }
+      ],
+      "translations": {},
+      "word": "script"
+   },
+   {
+      "abbrs": [
+         {
             "abbr": "sel",
             "degree": "green"
          }
@@ -2286,6 +2599,22 @@
    {
       "abbrs": [
          {
+            "abbr": "sln",
+            "degree": "red"
+         },
+         {
+            "abbr": "sol",
+            "degree": "green"
+         }
+      ],
+      "translations": {
+         "it": "soluzione"
+      },
+      "word": "solution"
+   },
+   {
+      "abbrs": [
+         {
             "abbr": "src",
             "degree": "green"
          }
@@ -2298,7 +2627,7 @@
    {
       "abbrs": [
          {
-            "abbr": "space",
+            "abbr": "spec",
             "degree": "green"
          }
       ],
@@ -2366,6 +2695,18 @@
    {
       "abbrs": [
          {
+            "abbr": "sub",
+            "degree": "green"
+         }
+      ],
+      "translations": {
+         "it": "sottrazione"
+      },
+      "word": "subtration"
+   },
+   {
+      "abbrs": [
+         {
             "abbr": "sync",
             "degree": "green"
          }
@@ -2374,6 +2715,50 @@
          "it": "sincronizzazione"
       },
       "word": "synchronization"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "td",
+            "degree": "green"
+         }
+      ],
+      "translations": {},
+      "word": "table data"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "th",
+            "degree": "green"
+         }
+      ],
+      "translations": {},
+      "word": "table header"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "tr",
+            "degree": "green"
+         }
+      ],
+      "translations": {
+         "it": "riga"
+      },
+      "word": "table row"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "tgt",
+            "degree": "red"
+         }
+      ],
+      "translations": {
+         "it": "bersaglio"
+      },
+      "word": "target"
    },
    {
       "abbrs": [
@@ -2485,6 +2870,10 @@
             "abbr": "t",
             "context": "modifiers",
             "degree": "yellow"
+         },
+         {
+            "abbr": "tpe",
+            "degree": "red"
          }
       ],
       "translations": {
@@ -2638,6 +3027,16 @@
          "it": "finestra"
       },
       "word": "window"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "wiz",
+            "degree": "green"
+         }
+      ],
+      "translations": {},
+      "word": "wizard"
    },
    {
       "abbrs": [
