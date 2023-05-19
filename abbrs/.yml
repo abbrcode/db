@@ -1652,6 +1652,7 @@
 
 - abbrs:
     - abbr: t
+      context: physics
       degree: yellow
   translations:
     it: tempo
