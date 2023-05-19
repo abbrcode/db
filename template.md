@@ -6,7 +6,7 @@ If you use the abbreviations below, your naming will become more coherent, logic
 
 <h2 align='center'>
    
-   [Licence](./LICENCE) • [Discussions](https://github.com/orgs/abbrcode/discussions) • [CONTRIBUTING](./.github/CONTRIBUTING.md)
+   [Contributing](./.github/CONTRIBUTING.md) • [Discussions](https://github.com/orgs/abbrcode/discussions) • [Licence](./LICENCE) 
 </h2>
 
 ## Guide
@@ -16,3 +16,16 @@ Colored circles before the abbr mean the degree of recommendation:
 -  🟢 Recommended
 -  🟡 Context-sensitive • Context is specified between { }.
 -  🔴 Not recommended
+
+## List
+
+- {{ sections }}
+- [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z) 
+
+{{ list }}
+
+{{ length }} abbrs in the list
+
+<br />
+
+[Go up to list index](#list)

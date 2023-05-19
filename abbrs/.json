@@ -582,8 +582,11 @@
    {
       "abbrs": [
          {
+            "abbr": "con",
+            "degree": "red"
+         },
+         {
             "abbr": "conn",
-            "context": "connections",
             "degree": "green"
          }
       ],
@@ -900,7 +903,7 @@
       "abbrs": [
          {
             "abbr": "dim",
-            "degree": "yellow"
+            "degree": "green"
          }
       ],
       "translations": {
@@ -958,7 +961,7 @@
       "abbrs": [
          {
             "abbr": "div",
-            "degree": "yellow"
+            "degree": "green"
          }
       ],
       "translations": {
