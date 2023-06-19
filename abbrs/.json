@@ -183,6 +183,21 @@
    {
       "abbrs": [
          {
+            "abbr": "anno",
+            "degree": "green"
+         }
+      ],
+      "translations": [
+         {
+            "lang": "it",
+            "word": "annotazione"
+         }
+      ],
+      "word": "annotation"
+   },
+   {
+      "abbrs": [
+         {
             "abbr": "app",
             "degree": "green"
          }
@@ -673,6 +688,21 @@
    {
       "abbrs": [
          {
+            "abbr": "comp",
+            "degree": "green"
+         }
+      ],
+      "translations": [
+         {
+            "lang": "it",
+            "word": "componente"
+         }
+      ],
+      "word": "component"
+   },
+   {
+      "abbrs": [
+         {
             "abbr": "concat",
             "degree": "green"
          }
@@ -684,6 +714,21 @@
          }
       ],
       "word": "concatenation"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "cond",
+            "degree": "green"
+         }
+      ],
+      "translations": [
+         {
+            "lang": "it",
+            "word": "condizione"
+         }
+      ],
+      "word": "condition"
    },
    {
       "abbrs": [
@@ -934,6 +979,21 @@
    {
       "abbrs": [
          {
+            "abbr": "decl",
+            "degree": "green"
+         }
+      ],
+      "translations": [
+         {
+            "lang": "it",
+            "word": "dichiarazione"
+         }
+      ],
+      "word": "declaration"
+   },
+   {
+      "abbrs": [
+         {
             "abbr": "dec",
             "context": "loops",
             "degree": "yellow"
@@ -1007,6 +1067,16 @@
          }
       ],
       "word": "delta time"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "dep",
+            "degree": "green"
+         }
+      ],
+      "translations": [],
+      "word": "dependency"
    },
    {
       "abbrs": [
@@ -1203,11 +1273,36 @@
    {
       "abbrs": [
          {
+            "abbr": "docs",
+            "degree": "green"
+         }
+      ],
+      "translations": [
+         {
+            "lang": "it",
+            "word": "documentazione"
+         }
+      ],
+      "word": "documentation"
+   },
+   {
+      "abbrs": [
+         {
             "abbr": "drv",
             "degree": "green"
          }
       ],
       "translations": {},
+      "word": "driver"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "drv",
+            "degree": "green"
+         }
+      ],
+      "translations": [],
       "word": "driver"
    },
    {
@@ -1224,6 +1319,21 @@
          }
       ],
       "word": "dynamic"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "elm",
+            "degree": "green"
+         }
+      ],
+      "translations": [
+         {
+            "lang": "it",
+            "word": "elemento"
+         }
+      ],
+      "word": "element"
    },
    {
       "abbrs": [
@@ -1349,6 +1459,16 @@
          }
       ],
       "word": "extension"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "fct",
+            "degree": "green"
+         }
+      ],
+      "translations": [],
+      "word": "facet"
    },
    {
       "abbrs": [
@@ -2006,6 +2126,21 @@
    {
       "abbrs": [
          {
+            "abbr": "lvl",
+            "degree": "green"
+         }
+      ],
+      "translations": [
+         {
+            "lang": "it",
+            "word": "livello"
+         }
+      ],
+      "word": "level"
+   },
+   {
+      "abbrs": [
+         {
             "abbr": "lib",
             "degree": "green"
          }
@@ -2037,21 +2172,6 @@
       ],
       "translations": {},
       "word": "linked list"
-   },
-   {
-      "abbrs": [
-         {
-            "abbr": "lvl",
-            "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "livello"
-         }
-      ],
-      "word": "level"
    },
    {
       "abbrs": [
@@ -2581,6 +2701,16 @@
    {
       "abbrs": [
          {
+            "abbr": "px",
+            "degree": "green"
+         }
+      ],
+      "translations": [],
+      "word": "pixel"
+   },
+   {
+      "abbrs": [
+         {
             "abbr": "p",
             "context": "memory",
             "degree": "yellow"
@@ -2643,6 +2773,16 @@
          }
       ],
       "word": "power"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "pred",
+            "degree": "green"
+         }
+      ],
+      "translations": [],
+      "word": "predication"
    },
    {
       "abbrs": [
@@ -3082,6 +3222,21 @@
    {
       "abbrs": [
          {
+            "abbr": "sep",
+            "degree": "green"
+         }
+      ],
+      "translations": [
+         {
+            "lang": "it",
+            "word": "separazione"
+         }
+      ],
+      "word": "separator"
+   },
+   {
+      "abbrs": [
+         {
             "abbr": "seq",
             "degree": "green"
          }
@@ -3093,6 +3248,21 @@
          }
       ],
       "word": "sequence"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "sess",
+            "degree": "green"
+         }
+      ],
+      "translations": [
+         {
+            "lang": "it",
+            "word": "sessione"
+         }
+      ],
+      "word": "session"
    },
    {
       "abbrs": [
@@ -3158,6 +3328,21 @@
    {
       "abbrs": [
          {
+            "abbr": "sol",
+            "degree": "green"
+         }
+      ],
+      "translations": [
+         {
+            "lang": "it",
+            "word": "risolutore"
+         }
+      ],
+      "word": "solver"
+   },
+   {
+      "abbrs": [
+         {
             "abbr": "src",
             "degree": "green"
          }
@@ -3219,6 +3404,16 @@
       ],
       "translations": {},
       "word": "standard input output"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "stmt",
+            "degree": "green"
+         }
+      ],
+      "translations": [],
+      "word": "statement"
    },
    {
       "abbrs": [
