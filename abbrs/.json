@@ -2,21 +2,6 @@
    {
       "abbrs": [
          {
-            "abbr": "to",
-            "degree": "red"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "a"
-         }
-      ],
-      "word": "2"
-   },
-   {
-      "abbrs": [
-         {
             "abbr": "abbr",
             "degree": "green"
          }
