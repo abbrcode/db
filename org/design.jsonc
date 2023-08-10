@@ -1,8 +1,8 @@
 {
    "colors": {
       "bg": "#c0c0ff",
-      "text": "0f0f0f",
-      "primary": "ffffff",
+      "text": "#0f0f0f",
+      "primary": "#ffffff",
       "accent": "#0000ff"
    }
 }
