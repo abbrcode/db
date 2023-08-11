@@ -1277,16 +1277,6 @@
             "degree": "green"
          }
       ],
-      "translations": {},
-      "word": "driver"
-   },
-   {
-      "abbrs": [
-         {
-            "abbr": "drv",
-            "degree": "green"
-         }
-      ],
       "translations": [],
       "word": "driver"
    },
@@ -2681,16 +2671,6 @@
             "word": "pixel"
          }
       ],
-      "word": "pixel"
-   },
-   {
-      "abbrs": [
-         {
-            "abbr": "px",
-            "degree": "green"
-         }
-      ],
-      "translations": [],
       "word": "pixel"
    },
    {
