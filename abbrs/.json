@@ -3495,18 +3495,7 @@
          {
             "abbr": "tmp",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "temperatura"
-         }
-      ],
-      "word": "temperature"
-   },
-   {
-      "abbrs": [
+         },
          {
             "abbr": "temp",
             "degree": "green"
