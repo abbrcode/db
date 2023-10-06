@@ -1755,6 +1755,12 @@
   word: sequence
 
 - abbrs:
+    - abbr: svc
+      degree: green
+  translations: []
+  word: service
+
+- abbrs:
     - abbr: sess
       degree: green
   translations:
