@@ -114,7 +114,7 @@
 - abbrs:
     - abbr: arr
       degree: green
-  translations: {}
+  translations: []
   word: array
 
 - abbrs:
@@ -212,7 +212,7 @@
       degree: red
     - abbr: buff
       degree: green
-  translations: {}
+  translations: []
   word: buffer
 
 - abbrs:
@@ -234,7 +234,7 @@
 - abbrs:
     - abbr: cb
       degree: green
-  translations: {}
+  translations: []
   word: callback
 
 - abbrs:
@@ -274,7 +274,7 @@
     - abbr: csum
       context: operations
       degree: yellow
-  translations: {}
+  translations: []
   word: checksum
 
 - abbrs:
@@ -501,13 +501,13 @@
 - abbrs:
     - abbr: db
       degree: green
-  translations: {}
+  translations: []
   word: database
 
 - abbrs:
     - abbr: dbg
       degree: green
-  translations: {}
+  translations: []
   word: debug
 
 - abbrs:
@@ -643,7 +643,7 @@
 - abbrs:
     - abbr: dir
       degree: green
-  translations: {}
+  translations: []
   word: directory
 
 - abbrs:
@@ -792,43 +792,43 @@
 - abbrs:
     - abbr: fig
       degree: green
-  translations: {}
+  translations: []
   word: figure
 
 - abbrs:
     - abbr: fc
       degree: green
-  translations: {}
+  translations: []
   word: file chooser
 
 - abbrs:
     - abbr: fd
       degree: green
-  translations: {}
+  translations: []
   word: file description
 
 - abbrs:
     - abbr: fp
       degree: green
-  translations: {}
+  translations: []
   word: file processor
 
 - abbrs:
     - abbr: fr
       degree: green
-  translations: {}
+  translations: []
   word: file reader
 
 - abbrs:
     - abbr: fs
       degree: green
-  translations: {}
+  translations: []
   word: file system
 
 - abbrs:
     - abbr: fw
       degree: green
-  translations: {}
+  translations: []
   word: file writer
 
 - abbrs:
@@ -913,13 +913,13 @@
     - abbr: hw
       context: computer science
       degree: yellow
-  translations: {}
+  translations: []
   word: hardware
 
 - abbrs:
     - abbr: hdr
       degree: red
-  translations: {}
+  translations: []
   word: header
 
 - abbrs:
@@ -1024,7 +1024,7 @@
 - abbrs:
     - abbr: in
       degree: green
-  translations: {}
+  translations: []
   word: input
 
 - abbrs:
@@ -1073,7 +1073,7 @@
 - abbrs:
     - abbr: js
       degree: green
-  translations: {}
+  translations: []
   word: javascript
 
 - abbrs:
@@ -1088,7 +1088,7 @@
 - abbrs:
     - abbr: km
       degree: green
-  translations: {}
+  translations: []
   word: keymap
 
 - abbrs:
@@ -1161,13 +1161,13 @@
 - abbrs:
     - abbr: lnk
       degree: red
-  translations: {}
+  translations: []
   word: link
 
 - abbrs:
     - abbr: ll
       degree: green
-  translations: {}
+  translations: []
   word: linked list
 
 - abbrs:
@@ -1190,7 +1190,7 @@
 - abbrs:
     - abbr: mng
       degree: green
-  translations: {}
+  translations: []
   word: manager
 
 - abbrs:
@@ -1221,13 +1221,13 @@
     - abbr: meta
       context: data science
       degree: yellow
-  translations: {}
+  translations: []
   word: metadata
 
 - abbrs:
     - abbr: mcu
       degree: green
-  translations: {}
+  translations: []
   word: microcontroller
 
 - abbrs:
@@ -1249,7 +1249,7 @@
 - abbrs:
     - abbr: misc
       degree: green
-  translations: {}
+  translations: []
   word: miscellaneous
 
 - abbrs:
@@ -1288,7 +1288,7 @@
 - abbrs:
     - abbr: net
       degree: green
-  translations: {}
+  translations: []
   word: network
 
 - abbrs:
@@ -1421,7 +1421,7 @@
 - abbrs:
     - abbr: out
       degree: green
-  translations: {}
+  translations: []
   word: output
 
 - abbrs:
@@ -1443,13 +1443,13 @@
 - abbrs:
     - abbr: perf
       degree: green
-  translations: {}
+  translations: []
   word: performance
 
 - abbrs:
     - abbr: pic
       degree: green
-  translations: {}
+  translations: []
   word: picture
 
 - abbrs:
@@ -1572,7 +1572,7 @@
       degree: green
     - abbr: qry
       degree: red
-  translations: {}
+  translations: []
   word: query
 
 - abbrs:
@@ -1597,7 +1597,7 @@
 - abbrs:
     - abbr: rng
       degree: green
-  translations: {}
+  translations: []
   word: range
 
 - abbrs:
@@ -1672,7 +1672,7 @@
 - abbrs:
     - abbr: repo
       degree: green
-  translations: {}
+  translations: []
   word: repository
 
 - abbrs:
@@ -1718,7 +1718,7 @@
 - abbrs:
     - abbr: sc
       degree: red
-  translations: {}
+  translations: []
   word: script
 
 - abbrs:
@@ -1789,7 +1789,7 @@
     - abbr: sw
       context: computer science
       degree: yellow
-  translations: {}
+  translations: []
   word: software
 
 - abbrs:
@@ -1837,13 +1837,13 @@
 - abbrs:
     - abbr: std
       degree: green
-  translations: {}
+  translations: []
   word: standard
 
 - abbrs:
     - abbr: stdio
       degree: green
-  translations: {}
+  translations: []
   word: standard input output
 
 - abbrs:
@@ -1887,13 +1887,13 @@
 - abbrs:
     - abbr: td
       degree: green
-  translations: {}
+  translations: []
   word: table data
 
 - abbrs:
     - abbr: th
       degree: green
-  translations: {}
+  translations: []
   word: table header
 
 - abbrs:
@@ -1942,13 +1942,13 @@
 - abbrs:
     - abbr: tmr
       degree: green
-  translations: {}
+  translations: []
   word: timer
 
 - abbrs:
     - abbr: ts
       degree: green
-  translations: {}
+  translations: []
   word: timestamp
 
 - abbrs:
@@ -1989,7 +1989,7 @@
 - abbrs:
     - abbr: ts
       degree: green
-  translations: {}
+  translations: []
   word: typescript
 
 - abbrs:
@@ -2086,7 +2086,7 @@
 - abbrs:
     - abbr: wiz
       degree: green
-  translations: {}
+  translations: []
   word: wizard
 
 - abbrs:

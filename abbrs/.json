@@ -217,7 +217,7 @@
             "degree": "green"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "array"
    },
    {
@@ -398,7 +398,7 @@
             "degree": "green"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "buffer"
    },
    {
@@ -438,7 +438,7 @@
             "degree": "green"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "callback"
    },
    {
@@ -510,7 +510,7 @@
             "degree": "yellow"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "checksum"
    },
    {
@@ -933,7 +933,7 @@
             "degree": "green"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "database"
    },
    {
@@ -943,7 +943,7 @@
             "degree": "green"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "debug"
    },
    {
@@ -1192,7 +1192,7 @@
             "degree": "green"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "directory"
    },
    {
@@ -1467,7 +1467,7 @@
             "degree": "green"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "figure"
    },
    {
@@ -1477,7 +1477,7 @@
             "degree": "green"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "file chooser"
    },
    {
@@ -1487,7 +1487,7 @@
             "degree": "green"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "file description"
    },
    {
@@ -1497,7 +1497,7 @@
             "degree": "green"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "file processor"
    },
    {
@@ -1507,7 +1507,7 @@
             "degree": "green"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "file reader"
    },
    {
@@ -1517,7 +1517,7 @@
             "degree": "green"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "file system"
    },
    {
@@ -1527,7 +1527,7 @@
             "degree": "green"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "file writer"
    },
    {
@@ -1683,7 +1683,7 @@
             "degree": "yellow"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "hardware"
    },
    {
@@ -1693,7 +1693,7 @@
             "degree": "red"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "header"
    },
    {
@@ -1886,7 +1886,7 @@
             "degree": "green"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "input"
    },
    {
@@ -1976,7 +1976,7 @@
             "degree": "green"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "javascript"
    },
    {
@@ -2002,7 +2002,7 @@
             "degree": "green"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "keymap"
    },
    {
@@ -2135,7 +2135,7 @@
             "degree": "red"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "link"
    },
    {
@@ -2145,7 +2145,7 @@
             "degree": "green"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "linked list"
    },
    {
@@ -2186,7 +2186,7 @@
             "degree": "green"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "manager"
    },
    {
@@ -2242,7 +2242,7 @@
             "degree": "yellow"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "metadata"
    },
    {
@@ -2252,7 +2252,7 @@
             "degree": "green"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "microcontroller"
    },
    {
@@ -2292,7 +2292,7 @@
             "degree": "green"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "miscellaneous"
    },
    {
@@ -2363,7 +2363,7 @@
             "degree": "green"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "network"
    },
    {
@@ -2605,7 +2605,7 @@
             "degree": "green"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "output"
    },
    {
@@ -2645,7 +2645,7 @@
             "degree": "green"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "performance"
    },
    {
@@ -2655,7 +2655,7 @@
             "degree": "green"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "picture"
    },
    {
@@ -2881,7 +2881,7 @@
             "degree": "red"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "query"
    },
    {
@@ -2926,7 +2926,7 @@
             "degree": "green"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "range"
    },
    {
@@ -3065,7 +3065,7 @@
             "degree": "green"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "repository"
    },
    {
@@ -3150,7 +3150,7 @@
             "degree": "red"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "script"
    },
    {
@@ -3278,7 +3278,7 @@
             "degree": "yellow"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "software"
    },
    {
@@ -3367,7 +3367,7 @@
             "degree": "green"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "standard"
    },
    {
@@ -3377,7 +3377,7 @@
             "degree": "green"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "standard input output"
    },
    {
@@ -3457,7 +3457,7 @@
             "degree": "green"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "table data"
    },
    {
@@ -3467,7 +3467,7 @@
             "degree": "green"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "table header"
    },
    {
@@ -3557,7 +3557,7 @@
             "degree": "green"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "timer"
    },
    {
@@ -3567,7 +3567,7 @@
             "degree": "green"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "timestamp"
    },
    {
@@ -3642,7 +3642,7 @@
             "degree": "green"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "typescript"
    },
    {
@@ -3819,7 +3819,7 @@
             "degree": "green"
          }
       ],
-      "translations": {},
+      "translations": [],
       "word": "wizard"
    },
    {
